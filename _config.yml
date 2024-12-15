@@ -1,8 +1,9 @@
 # Site settings
-theme: jekyll-theme-easy-wedding
-title: Rebecca & Ryan
-email: nathan@nathanorick.com
-url: http://wedding.nathanorick.com # Be sure to include http:// or https://
+#theme: jekyll-theme-easy-wedding
+remote_theme: cnorick/jekyll-theme-easy-wedding
+title: Curtis & Meishan
+email: curtis.meishan@gmail.com
+url: http://wedding.ulleri.ch # Be sure to include http:// or https://
 description: "We're getting married and can't wait to celebrate with you!"
 baseurl: ""
 
@@ -30,3 +31,6 @@ permalink: pretty
 
 exclude:
   - _compress_images_cache.yml
+
+plugins:
+  - jekyll-remote-theme
