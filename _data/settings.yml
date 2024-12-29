@@ -16,7 +16,8 @@ rsvp:
   use_code: true
   code: 1234
   code_md5: 81dc9bdb52d04dc20036dbd8313ed055
-  post_address: https://api.nathanorick.com/rsvp
+  # post_address: https://api.nathanorick.com/rsvp
+  post_address: https://docs.google.com/forms/d/e/1FAIpQLSdpiyH0sd4itq2MerhRT2WL9WInMPvOhqgHUgqBeTqUPvuZOQ/viewform?usp=header
   api_key: m7ccqIIa6S8uSBQzbhZzd1rZaoiCXObr1fcx4Wvy
   code_location: You can put the code on the back of your RSVP card, or turn off this functionality all together. The code for this sample is 1234
   yes_text: I'll be there
@@ -34,10 +35,10 @@ rsvp:
   song_text: What songs will get you dancing?
   leave_a_message_text: Leave a message for the bride and groom.
 
-people:
-  families_header: Our Families 
-  families_text: We would be nothing if it wasn't for the love and support of our wonderful parents and siblings.
-  kids_header: Little Ones
-  kids_text: We're so lucky to have our sweet puppies help us celebrate the big day.
-  wedding_party_header: Wedding Party
+#people:
+#  families_header: Our Families 
+#  families_text: We would be nothing if it wasn't for the love and support of our wonderful parents and siblings.
+#  kids_header: Little Ones
+#  kids_text: We're so lucky to have our sweet puppies help us celebrate the big day.
+#  wedding_party_header: Wedding Party
   
