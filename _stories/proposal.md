@@ -1,4 +1,4 @@
----
+<!-- ---
 order: 3
 image: photos/wave-looking.jpg
 image_position: bottom
@@ -25,3 +25,4 @@ knee. Nikita started blubbering, but made sure to say an audible
 poured out of their cars, where they had been surreptitiously
 recording the whole event on their phones. And, just like that,
 they started the countdown to #BacligVashi2016.
+ -->

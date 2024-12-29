@@ -1,4 +1,4 @@
----
+<!-- ---
 order: 2
 image: photos/road-walking.jpg
 image_position: bottom
@@ -18,3 +18,4 @@ surely, they built a life together in Chicago – exploring the
 city’s amazing restaurants, running through Millenium Park, and
 investing in Chris’ first winter coat. Soon enough, Chicago felt
 like a second home.
+ -->
