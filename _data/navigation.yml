@@ -4,8 +4,8 @@
   link: /celebrations
 #- name: People
 #  link: /people
-- name: Details
-  link: /details
+# - name: Details
+#   link: /details
 - name: FAQ
   link: /faq
 - name: Travel
