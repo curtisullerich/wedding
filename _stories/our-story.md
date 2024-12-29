@@ -1,5 +1,7 @@
 ---
 order: 0
+image: photos/wave-right.jpg
+image_position: bottom
 ---
 ## Our Story
 
