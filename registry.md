@@ -1,8 +1,8 @@
 ---
 layout: info
-title: Registry
+title: 
 billboard_image: photos/wave-right-pastel.jpg
-image_position: center 70%
+image_position: center center
 ---
 
 ## Registry

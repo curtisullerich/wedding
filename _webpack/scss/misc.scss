@@ -24,6 +24,7 @@ h3,
 h4,
 h5,
 h6 {
+  text-transform: capitalize;
   font-family: Raleway, "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-weight: 700;
   letter-spacing: 1px;
@@ -78,7 +79,6 @@ a:focus {
 
 .content-section {
   padding-top: 50px;
-  padding-bottom: 50px;
 }
 
 .content-section h2 small {
@@ -265,7 +265,7 @@ dd {
   }
 
   .navbar-custom.top-nav-collapse .modal-link.notify a {
-    color: #8d5f9e;
+    color: #fcaf6f;
   }
 
   .modal-link .modal-link--icon {

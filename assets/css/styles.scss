@@ -5,7 +5,7 @@
 
 @function text-clr($color) {
   @if (lightness($color) > 50) {
-    @return #000;
+    @return #3d2211;
   } @else {
     @return #fff;
   }
@@ -22,18 +22,18 @@ $primary-text-color-darker: text-clr($primary-color-darker);
 $primary-color-darkest: scale-color({{site.data.settings.theme.primary_color | default: "#fceadc"}}, $lightness: -30%);
 $primary-text-color-darkest: text-clr($primary-color-darkest);
 
-$secondary-color: {{site.data.settings.theme.secondary_color | default: "#f5a462"}};
+$secondary-color: {{site.data.settings.theme.secondary_color | default: "#da8560"}};
 $secondary-text-color: text-clr($secondary-color);
-$secondary-color-darker: scale-color({{site.data.settings.theme.secondary_color | default: "#f5a462"}}, $lightness: -10%);
+$secondary-color-darker: scale-color({{site.data.settings.theme.secondary_color | default: "#da8560"}}, $lightness: -10%);
 $secondary-text-color-darker: text-clr($secondary-color-darker);
-$secondary-color-darkest: scale-color({{site.data.settings.theme.secondary_color | default: "#f5a462"}}, $lightness: -30%);
+$secondary-color-darkest: scale-color({{site.data.settings.theme.secondary_color | default: "#da8560"}}, $lightness: -30%);
 $secondary-text-color-darkest: text-clr($secondary-color-darkest);
 
-$accent-color: {{site.data.settings.theme.accent_color | default: "#fab275"}};
+$accent-color: {{site.data.settings.theme.accent_color | default: "#c46b45"}};
 $accent-text-color: text-clr($accent-color);
-$accent-color-darker: scale-color({{site.data.settings.theme.accent_color | default: "#f5a462"}}, $lightness: -10%);
+$accent-color-darker: scale-color({{site.data.settings.theme.accent_color | default: "#c46b45"}}, $lightness: -10%);
 $accent-text-color-darker: text-clr($accent-color-darker);
-$accent-color-darkest: scale-color({{site.data.settings.theme.accent_color | default: "#f5a462"}}, $lightness: -30%);
+$accent-color-darkest: scale-color({{site.data.settings.theme.accent_color | default: "#c46b45"}}, $lightness: -30%);
 $accent-text-color-darkest: text-clr($accent-color-darkest);
 
 $background-color: {{site.data.settings.theme.background_color | default: "#ffe7d4"}};
