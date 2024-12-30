@@ -9,7 +9,7 @@
                     <br>
                     <br>
                     <br>
-                    <h1 class="brand-heading">&nbsp; &nbsp; &nbsp; &nbsp; + {{ site.data.couple.spouse1.short_name }}</h1>
+                    <h1 class="brand-heading">&nbsp; &nbsp; + {{ site.data.couple.spouse1.short_name }}</h1>
                     <br>
                     <p class="intro-text">
                         {% assign main_event = site.data.events | where: "main_event", true | first %}
@@ -17,6 +17,9 @@
                         <br>
 
                         {{ main_event.location.city }}, {{ main_event.location.long_state }}
+                        <style>
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@1,400..900&display=swap');
+</style>
                       <br>
                     </p>
                 </div>
