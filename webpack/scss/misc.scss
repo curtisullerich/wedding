@@ -1,12 +1,13 @@
 body {
   width: 100%;
   height: 100%;
-  font-family: Cardo, "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family: 'Playfair Display', Cardo, "Helvetica Neue", Helvetica, Arial, sans-serif;
   color: var(--text-color);
   background-color: var(--background-color);
   display: flex;
   flex-direction: column;
-  webkit-tap-highlight-color: rgba(255, 255, 255, 0.2);
+  letter-spacing: 1px;
+  webkit-tap-highlight-color: rgba(70, 38, 17, 0.2);
 }
 
 .content-wrapper {
@@ -25,9 +26,9 @@ h4,
 h5,
 h6 {
   // text-transform: capitalize;
-  font-family: Raleway, "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family: "Playfair Display", Raleway, "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-weight: 700;
-  letter-spacing: 1px;
+  letter-spacing: 2px;
 }
 
 a {
