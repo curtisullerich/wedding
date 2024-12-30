@@ -22,14 +22,14 @@ $primary-text-color-darker: text-clr($primary-color-darker);
 $primary-color-darkest: scale-color({{site.data.settings.theme.primary_color | default: "#fff"}}, $lightness: -30%);
 $primary-text-color-darkest: text-clr($primary-color-darkest);
 
-$secondary-color: {{site.data.settings.theme.secondary_color | default: "#afa63d"}};
+$secondary-color: {{site.data.settings.theme.secondary_color | default: "#f5a462"}};
 $secondary-text-color: text-clr($secondary-color);
 $secondary-color-darker: scale-color({{site.data.settings.theme.secondary_color | default: "#fff"}}, $lightness: -10%);
 $secondary-text-color-darker: text-clr($secondary-color-darker);
 $secondary-color-darkest: scale-color({{site.data.settings.theme.secondary_color | default: "#fff"}}, $lightness: -30%);
 $secondary-text-color-darkest: text-clr($secondary-color-darkest);
 
-$accent-color: {{site.data.settings.theme.accent_color | default: "#219ab3"}};
+$accent-color: {{site.data.settings.theme.accent_color | default: "#f5a462"}};
 $accent-text-color: text-clr($accent-color);
 $accent-color-darker: scale-color({{site.data.settings.theme.accent_color | default: "#fff"}}, $lightness: -10%);
 $accent-text-color-darker: text-clr($accent-color-darker);
