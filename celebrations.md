@@ -19,6 +19,7 @@ ensure you have time to settle in.
 
 <a href="https://calendar.google.com/calendar/render?action=TEMPLATE&text=Ullerich+Wedding&details=Visit+http://ullri.ch/wedding+for+more+details&dates=20250802T100000/20250802T170000&ctz=America/Los_Angeles&location=37.234524,-122.063787">Add to my (Google) calendar</a> or [Download .ics calendar file](/files/ullerich_wedding.ics)  
 
+<br/><br>
 
 ## Day-After Hangout
 ***The day after the wedding***  
