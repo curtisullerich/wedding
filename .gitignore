@@ -2,3 +2,7 @@ _site
 .DS_Store
 .jekyll-cache
 Gemfile.lock
+package-lock.json
+node_modules
+assets/main-bundle.js
+assets/main-bundle.js.LICENSE.txt
