@@ -1,5 +1,5 @@
 # Site settings
-theme: jekyll-theme-easy-wedding
+#theme: jekyll-theme-easy-wedding
 #remote_theme: curtisullerich/my-jekyll-theme-easy-wedding
 title: Curtis & Meishan
 email: curtis.meishan@gmail.com
@@ -32,14 +32,12 @@ permalink: pretty
 exclude:
   - _compress_images_cache.yml
 
-#plugins:
-#  - jekyll-remote-theme
-
 plugins:
   - jekyll-feed
   - jekyll-sitemap
   - jekyll-seo-tag
   - jekyll-compress-images
+  #- jekyll-remote-theme
 
 compress_images:
   images_path: "{assets,photos}/**/*.{gif,png,jpg,jpeg,svg}"
