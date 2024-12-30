@@ -31,12 +31,14 @@ permalink: pretty
 
 exclude:
   - _compress_images_cache.yml
+  - node_modules
 
 plugins:
   - jekyll-feed
   - jekyll-sitemap
   - jekyll-seo-tag
   - jekyll-compress-images
+  - "jekyll/webpack"
   #- jekyll-remote-theme
 
 compress_images:

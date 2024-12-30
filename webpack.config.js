@@ -4,9 +4,10 @@ const TerserPlugin = require('terser-webpack-plugin');
 
 // https://webpack.js.org/configuration/
 module.exports = {
-  entry: {
-    main: path.join(__dirname, '_webpack', 'main'),
-  },
+  // entry: {
+  //   main: path.join(__dirname, '_webpack', 'main'),
+  // },
+  entry: "./webpack/main.js",
   output: {
     path: path.resolve(__dirname, 'assets'),
     filename: '[name]-bundle.js',

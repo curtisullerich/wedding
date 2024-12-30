@@ -6,3 +6,4 @@ package-lock.json
 node_modules
 assets/main-bundle.js
 assets/main-bundle.js.LICENSE.txt
+yarn.lock
