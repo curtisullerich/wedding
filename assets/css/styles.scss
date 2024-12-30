@@ -5,7 +5,7 @@
 
 @function text-clr($color) {
   @if (lightness($color) > 50) {
-    @return #000;
+    @return #3d2211;
   } @else {
     @return #fff;
   }
