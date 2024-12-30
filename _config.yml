@@ -38,7 +38,9 @@ plugins:
   - jekyll-sitemap
   - jekyll-seo-tag
   - jekyll-compress-images
+  #- jekyll-font-awesome-sass
   - "jekyll/webpack"
+
   #- jekyll-remote-theme
 
 compress_images:
