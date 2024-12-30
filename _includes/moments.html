@@ -4,7 +4,7 @@
         <div class="container-fluid">
             <div class="row justify-content-center">
                 <div class="col-md-10">
-                    <h1 class="brand-heading">{{ site.data.couple.spouse1.short_name }} & {{ site.data.couple.spouse2.short_name }}</h1>
+                    <h1 class="brand-heading">{{ site.data.couple.spouse1.short_name }} + {{ site.data.couple.spouse2.short_name }}</h1>
                     <p class="intro-text">
                         {% assign main_event = site.data.events | where: "main_event", true | first %}
                         {{ main_event.date | date: '%B %d, %Y' }}
