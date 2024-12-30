@@ -17,7 +17,7 @@ Saturday, August 2, 2025. Please plan to arrive at least 20 mins early to
 ensure you have time to settle in.  
 
 
-<a href="https://calendar.google.com/calendar/render?action=TEMPLATE&text=Ullerich+Wedding&details=Visit+http://ullri.ch/wedding+for+more+details&dates=20250802T100000/20250802T170000&ctz=America/Los_Angeles&location=37.234524,-122.063787">Add to my (Google) calendar</a> or [Download .ics calendar file](/files/ullerich_wedding.ics)  
+<a href="https://calendar.google.com/calendar/render?action=TEMPLATE&text=Ullerich+Wedding&details=Visit+http://ullri.ch/wedding+for+more+details&dates=20250802T100000/20250802T180000&ctz=America/Los_Angeles&location=37.234524,-122.063787">Add to my (Google) calendar</a> or [Download .ics calendar file](/files/ullerich_wedding.ics)  
 
 <br/><br>
 
