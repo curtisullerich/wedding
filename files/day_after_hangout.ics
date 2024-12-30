@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+SUMMARY:Curtis and Meishan Day-After Hangout
+DESCRIPTION:Visit http://ullri.ch/wedding for more details
+DTSTART;TZID=America/Los_Angeles:20250803T110000
+DTEND;TZID=America/Los_Angeles:20250803T180000
+LOCATION:37.234524,-122.063787
+URL:http://ullri.ch/wedding
+BEGIN:VALARM
+TRIGGER:-P7D
+DESCRIPTION:Reminder: Curtis and Meishan Day-After Hangout is 1 week away
+ACTION:DISPLAY
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-P1D
+DESCRIPTION:Reminder: Curtis and Meishan Day-After Hangout is tomorrow
+ACTION:DISPLAY
+END:VALARM
+END:VEVENT
+END:VCALENDAR
