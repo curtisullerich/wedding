@@ -36,7 +36,7 @@ $accent-text-color-darker: text-clr($accent-color-darker);
 $accent-color-darkest: scale-color({{site.data.settings.theme.accent_color | default: "#c46b45"}}, $lightness: -30%);
 $accent-text-color-darkest: text-clr($accent-color-darkest);
 
-$background-color: {{site.data.settings.theme.background_color | default: "#ffe7d4"}};
+$background-color: {{site.data.settings.theme.background_color | default: "#fcf1e8"}};
 $background-color-lighter: scale-color({{site.data.settings.theme.background_color | default: "#fff"}}, $lightness: 50%);
 
 :root {

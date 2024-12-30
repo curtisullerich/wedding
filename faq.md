@@ -75,8 +75,8 @@ at the reception venue is not wheelchair accessible.
 An hour or two before sunset.
 
 ##### What if I have a question that’s not listed here?
-Feel free to contact the bride and the groom at  
-curtis.meishan@gmail.com  
-OR  
+Feel free to <a href="mailto:curtis.meishan@gmail.com">send an e-mail</a> to the bride and the groom at  
+<a href="mailto: curtis.meishan@gmail.com">curtis.meishan@gmail.com</a>  
+OR call/text  
 Meishan (925) 262-7234  
 Curtis (712) 249-2588  
