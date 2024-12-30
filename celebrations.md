@@ -17,8 +17,9 @@ Saturday, August 2, 2025. Please plan to arrive at least 20 mins early to
 ensure you have time to settle in.  
 
 
-<a href="https://calendar.google.com/calendar/render?action=TEMPLATE&text=Ullerich+Wedding&details=Visit+http://ullri.ch/wedding+for+more+details&dates=20250802T100000/20250802T180000&ctz=America/Los_Angeles&location=37.234524,-122.063787">Add to my (Google) calendar</a> or [Download .ics calendar file](/files/ullerich_wedding.ics)  
-
+<i class="fa-solid fa-calendar-days"></i>
+ <a href="https://calendar.google.com/calendar/render?action=TEMPLATE&text=Ullerich+Wedding&details=Visit+http://ullri.ch/wedding+for+more+details&dates=20250802T100000/20250802T180000&ctz=America/Los_Angeles&location=37.234524,-122.063787">
+Add to my (Google) calendar</a> or [Download .ics calendar file](/files/ullerich_wedding.ics)  
 <br/><br>
 
 ## Day-After Hangout
@@ -31,6 +32,6 @@ celebrations, and as much as we'd love to, we may not get enough time to catch
 up with each of you. That's why we are planning a relaxing day-after hangout
 hoping to spend some quality time with you, chatting, and connecting with
 everyone who's made the time and effort to join us for this special occasion in
-our life.
-
+our life.  
+<i class="fa-solid fa-calendar-days"></i>
 <a href="https://calendar.google.com/calendar/render?action=TEMPLATE&text=Curtis+and+Meishan's+Day-After+Hangout&details=Visit+http://ullri.ch/wedding+for+more+details&dates=20250803T110000/20250803T180000&ctz=America/Los_Angeles&location=37.234524,-122.063787">Add to my (Google) calendar</a>   or [Download .ics calendar file](/files/day_after_hangout.ics)  
