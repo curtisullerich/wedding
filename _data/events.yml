@@ -1,20 +1,3 @@
-# - name: Wedding Shower
-#   date: TBD
-#   time: TBD
-#   attire: Casual
-#   description: We have decided to not have a gender-specific wedding shower, but instead have an inclusive pre-wedding party for all guests and family members to celebrate our upcoming nuptials. Join us for our brunch shower to help us get our wedding season started! Parking will be plentiful at the restaurant. If you are interested in bringing a gift, our registries are linked on the site!
-#   transportation:
-#   location:
-#     address: TBD
-#     city: TBD
-#     state: CA
-#     long_state: California
-#     zip: TBD
-#     coordinates: 
-#     # google_maps_url: https://www.google.com/maps/place/St+Michael+in+Old+Town/@41.912635,-87.6408956,15z/data=!4m2!3m1!1s0x0:0xe227f2c7eb743c04
-#     google_maps_url: 
-#     venue_name:
-
 - name: Wedding Ceremony and Reception
   main_event: true
   date: 2025-08-02 11:00:00 −08:00
