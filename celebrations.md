@@ -22,7 +22,7 @@ ensure you have time to settle in.
 <br/><br>
 
 ## Day-After Hangout
-***The day after the wedding***  
+***Sunday, August 3rd, 2025***  
 <!-- need to change the day after hang out location -->
 ***Casual Attire***  
 ***Location: TBD***  
