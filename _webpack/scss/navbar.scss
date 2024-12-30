@@ -1,7 +1,7 @@
 .navbar-custom {
   margin-bottom: 0;
   border-bottom: 1px solid var(--secondary-color);
-  text-transform: uppercase;
+  text-transform: capitalize;
   font-family: Raleway, "Helvetica Neue", Helvetica, Arial, sans-serif;
   background-color: var(--primary-color);
 }
@@ -37,7 +37,7 @@
 
 .navbar-custom a {
   color: #fff;
-  /*text-shadow: 0px 0px 1px #B38C00;*/
+  /*text-shadow: 0px 0px 1px #592a14;*/
 }
 
 .navbar-custom ul {
