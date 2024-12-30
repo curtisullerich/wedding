@@ -1,48 +1,51 @@
-- name: Wedding Shower
-  date: Thursday, May 26, 2016
-  time: 7pm
-  attire: Casual
-  description: We have decided to not have a gender-specific wedding shower, but instead have an inclusive pre-wedding party for all guests and family members to celebrate our upcoming nuptials. Join us for our brunch shower to help us get our wedding season started! Parking will be plentiful at the restaurant. If you are interested in bringing a gift, our registries are linked on the site!
-  transportation:
-  location:
-    address: 640 Pansy Hill Rd
-    city: Harriman
-    state: TN
-    long_state: Tennessee
-    zip: 37748
-    coordinates: 41.911652,-87.641253
-    google_maps_url: https://www.google.com/maps/place/St+Michael+in+Old+Town/@41.912635,-87.6408956,15z/data=!4m2!3m1!1s0x0:0xe227f2c7eb743c04
-    venue_name:
+# - name: Wedding Shower
+#   date: TBD
+#   time: TBD
+#   attire: Casual
+#   description: We have decided to not have a gender-specific wedding shower, but instead have an inclusive pre-wedding party for all guests and family members to celebrate our upcoming nuptials. Join us for our brunch shower to help us get our wedding season started! Parking will be plentiful at the restaurant. If you are interested in bringing a gift, our registries are linked on the site!
+#   transportation:
+#   location:
+#     address: TBD
+#     city: TBD
+#     state: CA
+#     long_state: California
+#     zip: TBD
+#     coordinates: 
+#     # google_maps_url: https://www.google.com/maps/place/St+Michael+in+Old+Town/@41.912635,-87.6408956,15z/data=!4m2!3m1!1s0x0:0xe227f2c7eb743c04
+#     google_maps_url: 
+#     venue_name:
 
-- name: Wedding Ceremony
+- name: Wedding Ceremony and Reception
   main_event: true
-  date: 2021-04-03 17:00:00 −04:00
-  endDate: 2021-04-03 21:00:00 -04:00
-  attire: snappy casual
-  description: Our wedding ceremony will be the perfect blend of our separate Catholic and Baptist traditions. Please arrive at least 10 minutes prior to the start of the ceremony in order to find your seat. There will be a parking attendant on site to direct you, and the venue will also provide transportation to the ceremony site if needed. We ask that you please ensure that your cell phones are off and out of sight for the duration of the ceremony.
+  date: 2025-08-02 11:00:00 −08:00
+  endDate: 2025-08-02 17:00:00 -08:00
+  attire: cocktail attire
+  description: Our wedding will take place at Sequoia Peterson Grove in Sanborn County Park, located at 16055 Sanborn Rd, Saratoga, CA 95070. The ceremony will be held on a beautiful deck surrounded by towering redwood trees, beginning at 11:00 AM on Saturday, August 2, 2025. Please plan to arrive at least 20 mins early to ensure you have time to settle in.
+
   transportation:
   shuttle:
   location:
-    address: 640 Pansy Hill Rd
-    city: Harriman
-    state: TN
-    long_state: Tennessee
-    zip: 37748
-    coordinates: 41.911652,-87.641253
-    google_maps_url: https://www.google.com/maps/place/St+Michael+in+Old+Town/@41.912635,-87.6408956,15z/data=!4m2!3m1!1s0x0:0xe227f2c7eb743c04
-    venue_name:
-  calendar_description: We can't wait to see you on the day of the wedding. For any questions or issues, contact Nathan Orick.
+    address: Peterson Grove at Sanborn County Park
+    city: Saratoga
+    state: CA
+    long_state: California
+    zip: 
+    coordinates: 37.234525, -122.063783
+    google_maps_url: https://www.google.com/maps/place/Peterson+Grove,+California+95070/data=!4m2!3m1!1s0x808e4b73785c40bd:0xf35ce38203376155?sa=X&ved=1t:242&ictx=111
+    venue_name: 
+  calendar_description: We can't wait to see you on the day of the wedding. For any questions or issues, contact Curtis or Meishan.
 
-- name: Reception
-  date_alt: Immediately following the ceremony
-  attire: snappy casual
-  description: The wedding reception is at the same venue as the ceremony and will commence directly after the ceremony ends. Venue staff will direct you to the reception space. Dinner will be provided and make sure to bring your dancing shoes!
+- name: Day-After Hangout
+  date_alt: The day after the wedding day
+  attire: casual
+  description: We know that our wedding day will be hectic yet filled with joy and celebrations, and as much as we'd love to, we may not get enough time to catch up with each of you. That's why we are planning a relaxing day-after hangout hoping to spend some quality time with you, chatting, and connecting with everyone who's made the time and effort to join us for this special occasion in our life.
+
   location:
-    address: 640 Pansy Hill Rd
-    city: Harriman
-    state: TN
-    long_state: Tennessee
-    zip: 37748
-    coordinates: 41.911652,-87.641253
-    google_maps_url: https://www.google.com/maps/place/St+Michael+in+Old+Town/@41.912635,-87.6408956,15z/data=!4m2!3m1!1s0x0:0xe227f2c7eb743c04
+    address: TBD
+    city: TBD
+    state: CA
+    long_state: California
+    zip: TBD
+    coordinates: TBD
+    google_maps_url: 
     venue_name:
