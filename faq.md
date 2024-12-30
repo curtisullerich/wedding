@@ -24,7 +24,7 @@ While we love kids, this will be an adults-only event.
 Our wedding will take place surrounded by towering redwood trees, dressing in a
 way that reflects the natural beauty would be great! See color examples below.  
 
-<img src="/assets/redwood-national-park.jpeg" style="width:275px;"/> 
+<img src="{{ "/assets/redwood-national-park.jpeg" | prepend: site.baseurl }}" style="width:275px;"/> 
 
 ##### What kind of shoes should I wear?
 The picnic area is not paved. We recommend wearing comfortable shoes, and no stilettos.
