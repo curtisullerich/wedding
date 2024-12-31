@@ -182,7 +182,8 @@ dd {
 
 .billboard-header {
   /* Height of nav + 2px bottom border*/
-  margin-top: 52px;
+  // Removed the margin so the image would be behind the transparent nav bar.
+  // margin-top: 52px;
   height: 175px;
 }
 

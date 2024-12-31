@@ -41,7 +41,7 @@ $background-color-lighter: scale-color({{site.data.settings.theme.background_col
 
 :root {
     --intro-background: url({{site.data.settings.hero_image}}) no-repeat center center scroll;
-    
+
     --intro-background-position: {{site.data.settings.hero_position | default: "center center"}};
 
     @media (max-width: 767px) {
