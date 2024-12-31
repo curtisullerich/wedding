@@ -32,6 +32,13 @@ permalink: pretty
 exclude:
   - _compress_images_cache.yml
   - node_modules
+  - yarn.lock
+  - .gitignore
+  - package-lock.json
+  - package.json
+  - LICENSE
+  - webpack.config.js
+  - README.md
 
 plugins:
   - jekyll-feed
