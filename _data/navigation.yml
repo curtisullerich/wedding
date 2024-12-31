@@ -1,7 +1,7 @@
 - name: Moments
-  link: /#moments
-- name: Celebrations
-  link: /celebrations
+  link: /moments
+#- name: Celebrations
+#  link: /celebrations
 #- name: People
 #  link: /people
 # - name: Details

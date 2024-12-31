@@ -6,11 +6,11 @@ hero_position: center center
 # mobile_hero_position: center center
 
 theme:
-  # text_color: '#471d02'
+  text_color: '#471d02'
   primary_color: '#f5a973'
-  # secondary_color: '#ffc094'
-  # accent_color: '#c46b45'
-  # background_color: '#fceee3'
+  secondary_color: '#ffc094'
+  accent_color: '#c46b45'
+  background_color: '#fceee3'
 
 rsvp:
   use_code: true
