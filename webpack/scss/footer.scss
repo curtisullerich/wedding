@@ -11,7 +11,7 @@ footer p {
 }
 
 footer.site-footer {
-  padding: 30px 10px;
+  padding: 20px 10px;
   margin-top: 70px;
 /*  background-color: var(--secondary-color);*/
   color: var(--secondary-color-text);
@@ -19,8 +19,6 @@ footer.site-footer {
   bottom: 0;
   width: 100%;
   text-align: center;
-  align-items: center; /* Centers content horizontally */
-  justify-content: center; /* Centers content vertically */
   p {
     font-size: clamp(.65rem, 2.5vw, .8rem);
   }
@@ -28,5 +26,3 @@ footer.site-footer {
     color: var(--secondary-color-text);
   }
 }
-
-
