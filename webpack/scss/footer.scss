@@ -19,6 +19,8 @@ footer.site-footer {
   bottom: 0;
   width: 100%;
   text-align: center;
+  align-items: center; /* Centers content horizontally */
+  justify-content: center; /* Centers content vertically */
   p {
     font-size: clamp(.65rem, 2.5vw, .8rem);
   }
