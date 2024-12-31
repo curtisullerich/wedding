@@ -1,6 +1,6 @@
 ---
 order: 0
-image: photos/wave-flag.jpg
+# image: photos/wave-flag.jpg
 image_position: bottom
 ---
 ## Wedding Ceremony and Reception
