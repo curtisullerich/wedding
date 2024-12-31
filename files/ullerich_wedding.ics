@@ -7,7 +7,7 @@ DESCRIPTION:Visit http://ullri.ch/wedding for more details
 DTSTART;TZID=America/Los_Angeles:20250802T100000
 DTEND;TZID=America/Los_Angeles:20250802T180000
 LOCATION:37.234524,-122.063787
-URL:http://ullri.ch/wedding
+URL:http://ulleri.ch/wedding
 BEGIN:VALARM
 TRIGGER:-P7D
 DESCRIPTION:Reminder: Ullerich Wedding is 1 week away
