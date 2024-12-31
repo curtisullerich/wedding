@@ -30,9 +30,16 @@
                           </a>
                         </li>
                       {% else %}
-                        <li class="{% if page.url == {{site.baseurl}}/item.link %}active{% endif %} nav-item">
+                        {% capture linkslash %}{{item.link}}/{% endcapture %}
+                        {% if linkslash == page.url %}
+                          <li class="active nav-item nav-link">
+                            {{ item.name }}
+                          </li>
+                        {% else %}
+                          <li class="nav-item">
                             <a href="{{site.baseurl}}{{item.link}}" class="nav-link">{{ item.name }}</a>
-                        </li>
+                          </li>
+                        {% endif %}
                       {% endif %}
                     {% endfor %}
                 </ul>
