@@ -6,9 +6,6 @@
   opacity: 0.7;
 }
 
-.nav-item.active {
-  text-decoration: underline;
-}
 
 .navbar-custom .navbar-brand {
   font-weight: 700;
@@ -52,7 +49,10 @@
 .navbar-custom.is-expanded .nav li.active {
   outline: none;
   background-color: #fff; //var(--primary-color);
-  opacity: 0.7;
+  text-decoration: underline;
+  text-underline-offset: 4px;
+  color: #3b1e06;
+/*  opacity: 0.7;*/
 }
 
 .navbar-custom .nav li a {
@@ -64,8 +64,10 @@
 .navbar-custom .nav li a:focus,
 .navbar-custom .nav li a.active {
   outline: 0;
-  color: #fff;
-  opacity: .6;
+  text-decoration: underline;
+  text-underline-offset: 4px;
+  color: #3b1e06;
+/*  opacity: .6;*/
 }
 
 .navbar-custom.top-nav-collapse .nav li a:hover,
