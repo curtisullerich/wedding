@@ -4,6 +4,8 @@ const TerserPlugin = require('terser-webpack-plugin');
 
 // https://webpack.js.org/configuration/
 module.exports = {
+  // jekyll-webpack requires the webpack/main.js entrypoint. This is what the
+  // npm webpack setup was using.
   // entry: {
   //   main: path.join(__dirname, '_webpack', 'main'),
   // },

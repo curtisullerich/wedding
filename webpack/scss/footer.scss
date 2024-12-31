@@ -12,12 +12,13 @@ footer p {
 
 footer.site-footer {
   padding: 5px 10px;
+  margin-top: 70px;
   background-color: var(--secondary-color);
   color: var(--secondary-color-text);
   left: 0;
   bottom: 0;
   width: 100%;
-  text-align: right;
+  text-align: center;
   p {
     font-size: clamp(.65rem, 2.5vw, .8rem);
   }
