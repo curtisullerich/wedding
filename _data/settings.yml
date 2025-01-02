@@ -8,7 +8,8 @@ mobile_hero_position: center center
 theme:
   text_color: '#471d02'
   primary_color: '#f5a973'
-  secondary_color: '#ffc094'
+  # secondary_color: '#ffc094'
+  secondary_color: '#ff7617'
   accent_color: '#c46b45'
   background_color: '#fceee3'
 
