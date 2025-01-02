@@ -1,0 +1,12 @@
+---
+# Published
+layout: default
+include: moments.html
+invisible_nav: true
+---
+
+
+{% include banners.html %}
+{% if page.include %}
+  {% include {{ page.include }} %}
+{% endif %}

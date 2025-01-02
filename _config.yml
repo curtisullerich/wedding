@@ -10,7 +10,7 @@ baseurl: ""
 collections:
   stories:
     sort_by: order
-  storiescopy:
+  moments:
     sort_by: order
   banners:
 

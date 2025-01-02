@@ -1,5 +1,5 @@
 ---
 order: 2
 image: photos/road-walking.jpg
-image_position: 60%
+image_position: bottom
 ---
