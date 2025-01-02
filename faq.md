@@ -2,7 +2,7 @@
 layout: info
 title: 
 billboard_image: ./photos/wave-right-pastel.jpg
-image_position: center center
+image_position: center 62%
 ---
 ## FAQ  
 <br>
@@ -18,13 +18,13 @@ information in your RSVP.
 
 
 ##### Can I bring my children?
-While we love kids, this will be an adults-only event.
+Why not? They are adorable!
 
 ##### What should I wear?
 Our wedding will take place surrounded by towering redwood trees, dressing in a
 way that reflects the natural beauty would be great! See color examples below.  
 
-<img src="{{ site.baseurl }}/assets/redwood-national-park.jpeg" style="width:275px;"/> 
+<img src="{{ site.baseurl }}/assets/redwood-national-park.jpeg" style="width:300px;"/> 
 
 ##### What kind of shoes should I wear?
 The picnic area is not paved. We recommend wearing comfortable shoes, and no stilettos.
