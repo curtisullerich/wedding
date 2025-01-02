@@ -78,7 +78,9 @@ a:focus {
 }
 
 .content-section {
-  padding-top: 50px;
+  padding-top: 10px;
+  max-width: 1000px; /* Adjust this value to your desired width */
+  margin: 0 auto; 
 }
 
 .content-section h2 small {
@@ -93,7 +95,7 @@ a:focus {
 
 @media (min-width: 767px) {
   .map {
-    height: 600px;
+    height: 400px;
   }
 }
 
@@ -199,7 +201,7 @@ dd {
 
 @media (min-width: 767px) {
   .billboard {
-    height: 400px;
+    height: 700px;
   }
 
   .billboard-header {
