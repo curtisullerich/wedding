@@ -4,13 +4,18 @@ title:
 billboard_image: ./photos/wave-right-pastel.jpg
 image_position: center 62%
 ---
+<br>
 
-## Getting Here
+## Travel
+
+<br>
+
+### Getting Here
 For those flying in, the closest airport to the venue and to us is San Jose Mineta International Airport.
 
 ---
 
-## Where to Stay
+### Where to Stay
 - Hyatt House San Jose/Cupertino<br>
 - Aloft Cupertino<br>
 - Maple Tree Inn<br>
@@ -24,12 +29,12 @@ For those flying in, the closest airport to the venue and to us is San Jose Mine
 
 ---
 
-## Getting to the Venue
+### Getting to the Venue
 Traveling by car to get to Sanborn County Park is likely the easiest way to reach our wedding ceremony. We highly recommend that you pre-download the map for the area, as cell signals tend to weaken or even disappear entirely as you approach the park.
 
 ---
 
-## Getting Around in the Bay Area
+### Getting Around in the Bay Area
 While traveling by car is likely the most convenient option for getting around the Bay Area, there are some public transportation options available as well.
 ###### Uber & Lyft
 Lyft tends to be our app-of-choice as it’s usually cheaper than Uber and we earn 10x points with Meishan’s Chase credit card, but we've heard that Uber offers deals with American Express credit cards.
@@ -49,7 +54,7 @@ Muni is the city's public transit system includes buses, light rail, streetcars,
 
 ---
 
-## Other Things to Do
+### Other Things to Do
 - A hike before the wedding at Sanborn County Park probably wouldn’t be a bad idea?  
 - Swing Dancing Friday night at For Dancer Only in Sunnyvale.  
 - A hike/bike ride at Alviso Marina County Park. There are places to birdwatch, read about local Alviso history. - Outside of the park, there are also some antique structures near the marina, ranging from the abandoned canning factory to some empty rotten Victorian houses as if it were a ghost town. The marsh by the marina is a good place to walk about and watch the wildlife and hear the howling wind.  
