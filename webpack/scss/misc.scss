@@ -178,10 +178,10 @@ dd {
   justify-content: center; /* Centers content horizontally */
   align-items: center;     /* Centers content vertically */
   background-repeat: no-repeat;
-  background-position: bottom center;
+  background-position: top center;
   -webkit-background-size: 50%;
   -moz-background-size: 50%;
-  background-size: 70%;
+  background-size: 50%;
   -o-background-size: 50%;
   position: relative;
 }
@@ -226,6 +226,11 @@ dd {
   .billboard {
     height: 700px;
   }
+
+  .billboard-moments {
+    height: 900px;
+  }
+
 
   .billboard-header {
     height: 450px;

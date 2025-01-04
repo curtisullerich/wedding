@@ -1,11 +1,12 @@
 - image: first-bike-ride.jpg
+  image_position: top
   text: "Our very first photo together during a bike ride. Curtis texted Meishan the photo but Meishan didn't know what to reply and just said \"Nice! Hahaha\"."
 
 - image: apple-strudel.jpg
-  image_position: bottom
+  image_position: top
   text: "Our first baking together – we hiked to the apple orchard near the house and made delicious apple strudel!"
 
-- image: road-walking.jpg
+# - image: road-walking.jpg
 
 - image: first-apple-pie.jpg
   text: "Meishan's first time making an apple pie - it turned out to be very good!"
@@ -61,8 +62,8 @@
 - image: wnh.jpg
   text: "2024 Wednesday Night Hop Christmas Party."
 
-- image: vof.jpg
-  text: "Another awesome road trip to Valley of Fire State Park in Nevada to meet Doug & Olivia"
+# - image: vof.jpg
+#   text: "Another awesome road trip to Valley of Fire State Park in Nevada to meet Doug & Olivia"
 
 - image: portrait.jpg
 
