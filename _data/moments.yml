@@ -6,8 +6,6 @@
   image_position: top
   text: "Our first baking together – we hiked to the apple orchard near the house and made delicious apple strudel!"
 
-# - image: road-walking.jpg
-
 - image: first-apple-pie.jpg
   text: "Meishan's first time making an apple pie - it turned out to be very good!"
 
@@ -15,11 +13,13 @@
   text: "First time backpacking together to Yosemite. Meishan summitted Half Dome for the first time."
 
 - image: iowa-dinner.jpg
-  text: "Meishan visits Iowa for the first time"
+  text: "Meishan visits Iowa for the first time for 2023 New Year."
 
 - image: iowa-hiking.jpg
+  text: "They went on a hike on New Year Day."
 
-- image: iowa-with kids.jpg
+- image: iowa-with-kids.jpg
+  text: "Doing some scientific experiment here with kids."
 
 - image: snow-house.jpg
   text: "In February 2022, it snowed right here where we live!"
@@ -62,8 +62,8 @@
 - image: wnh.jpg
   text: "2024 Wednesday Night Hop Christmas Party."
 
-# - image: vof.jpg
-#   text: "Another awesome road trip to Valley of Fire State Park in Nevada to meet Doug & Olivia"
+- image: us-with-doug-olivia.jpg
+  text: "Another awesome road trip to Valley of Fire State Park in Nevada to meet Doug & Olivia"
 
 - image: portrait.jpg
 
