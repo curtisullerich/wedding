@@ -6,61 +6,86 @@
   image_position: top
   text: "Our first baking together – we hiked to the apple orchard near the house and made delicious apple strudel!"
 
-- image: first-apple-pie.jpg
-  text: "Meishan's first time making an apple pie - it turned out to be very good!"
-
 - image: yosemite-backpacking.jpg
   text: "First time backpacking together to Yosemite. Meishan summitted Half Dome for the first time."
 
+- image: first-apple-pie.jpg
+  text: "Meishan's first time making an apple pie - it turned out to be very good!"
+
 - image: iowa-dinner.jpg
-  text: "Meishan visits Iowa for the first time for 2023 New Year."
+  text: "Meishan visits Iowa for the first time for 2023 New Year. She felt so welcomed in this family."
 
 - image: iowa-hiking.jpg
   text: "They went on a hike on New Year Day."
 
 - image: iowa-with-kids.jpg
-  text: "Doing some scientific experiment here with kids."
+  text: "Doing some scientific experiment with kids."
 
 - image: snow-house.jpg
-  text: "In February 2022, it snowed right here where we live!"
+  text: "In February 2022, it snowed right here at their home!"
 
 - image: yellowstone.jpg
-  text: "Road trip to Iowa passing by Yellowstone"
+  text: "Road trip to Iowa in 2023 summer, passing through Yellowstone National Park."
 
+- image: iowa-with-kids-in-car.jpg
+  text: "Heading to Curtis's parents' house. The kids insisted to ride with Meishan. "
 - image: iowa-family.jpg
   text: "The first family photo together in 2023. Meishan always feels so welcomed by this family, and everyone ensures she feels included. Gwen was especially thoughtful while we were taking these photos, making sure Meishan was never left out."
 
+- image: first-half-marathon.jpg
+  text: "Meishan's first turkey trot race."
+
+- image: china-hkg.jpg
+  text: "Curtis visited China for the first time in 2024! Meishan and her brother, Jingshan, picked Curtis up at Hong Kong International Airport. While Meishan went to the restroom, Jingshan spotted Curtis and showed him a photo of Meishan to help him recognize each other."
+
 - image: hongkong-two-high.jpg
-  text: "Curtis visited China for the first time in 2024.  They backpacked in Hong Kong."
+  image_position: top center
+  text: "They backpacked in Hong Kong. Ask them at the wedding about what happened during the night while they were sleeping!"
 
 - image: china-theme-park2.jpg
   text: "Visited Shenzhen, the city where Meishan was born and grew up in."
 
 - image: china-fishing.jpg
-  text: "Went fishing in the choppy ocean that day with Meishan's brother, Jingshan."
+  text: "Jingshan loves fishing and took them out to fish. The ocean was extremely choppy that day"
 
 - image: china-motocycle.jpg
-  text: "Curtis first time riding a scooter."
+  text: "Curtis rode a scooter for the first time."
 
 - image: china-new-year.jpg
-  text: "Experienced Chinese New Year in the traditional way"
+  text: "He also experienced Chinese New Year in the traditional way"
 
 - image: new-year-couplets.jpg
-  text: "Putting up new couplets to prep for Chinese New Year."
+  text: "They helped put up new couplets to prep for Chinese New Year."
+
+- image: china-fireworks.jpg
+  text: "Playing fireworks at night is part of their Chinese New Year tradition."
 
 - image: china-curtis-with-grandma.jpg
   text: "Curtis with Meishan's grandma, who was 94 at the time and is now 95"
 
-- image: demolition.jpg
-  text: "Meishan loves being on the roof."
+- image: running100k.jpg
+  text: "Curtis ran his first 100K, with Meishan and Stephen as his crew members."
 
-- image: yosemite-snowshoe-selfie.jpg
-  text: "Another backpacking adventure in Yosemite—this time, we hiked in snowshoes!"
+- image: appendectomy.jpg
+  text: "Meishan was admitted to the hospital immediately after a CT scan revealed she had appendicitis. Surprisingly, she was excited about experiencing her first surgery."
+
+- image: 4h-painting.jpg
+  text: "They volunteered together at 4-H Homesteaders Ranch."
+
+- image: demolition.jpg
+  text: "Working on the property is a big part of their life, and Meishan loves being on the roof!"
+
+# - image: yosemite-snowshoe-selfie.jpg
+#   text: "Another backpacking adventure in Yosemite—this time, we hiked in snowshoes!"
+
+- image: birthday-swing-dance.jpg
+  text: "They went swing dancing on Meishan's birthday, and that night, Meishan beat Curtis to the proposal and proposed to him. Curtis says this was not a surprise because Meishan gave million hints."
 
 - image: yosemite-snowshoe.jpg
+  text: "Another backpacking adventure in Yosemite, this time, we hiked in snowshoes! We didn't see anyone but animal footprints (including bears') until the last day of the trip."
 
 - image: wnh.jpg
-  text: "2024 Wednesday Night Hop Christmas Party."
+  text: "2024 Wednesday Night Hop Christmas Party. They are a big fan of swing dancing!"
 
 - image: us-with-doug-olivia.jpg
   text: "Another awesome road trip to Valley of Fire State Park in Nevada to meet Doug & Olivia"
@@ -76,4 +101,6 @@
 - image: piggyback.jpg
 
 - image: lake-camel.jpg
+
+- image: slot-canyon.jpg
 
