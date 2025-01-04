@@ -12,22 +12,22 @@ We want to dedicate this page to express our deep appreciation for our dear frie
 Doug, a talented photographer, took these awesome photos you see on this website, while Olivia’s endless patience was invaluable, helping us every step of the way. Below are some behind the scenes highlights from this adventure.
 
 <!-- ![Doug and Olivia](/photos/dougandolivia.jpg){width=50 height=30} -->
-<img src="{{ site.baseurl }}/photos/dougandolivia.jpg" style="width:643px;"/>  
+<img src="{{ site.baseurl }}/photos/vof/dougandolivia.jpg" style="width:643px;"/>  
 <br>
-<img src="{{ site.baseurl }}/photos/fourofus.jpg" style="width:643px;"/>  
+<img src="{{ site.baseurl }}/photos/vof/fourofus.jpg" style="width:643px;"/>  
 <br>
-<img src="{{ site.baseurl }}/photos/behindthescene1.jpg" style="width:643px;"/>  
-<br>
-
-<img src="{{ site.baseurl }}/photos/behindthescene2.jpg" style="width:643px;"/>  
+<img src="{{ site.baseurl }}/photos/vof/behindthescene1.jpg" style="width:643px;"/>  
 <br>
 
-<img src="{{ site.baseurl }}/photos/behindthescene3.jpg" style="width:643px;"/>  
+<img src="{{ site.baseurl }}/photos/vof/behindthescene2.jpg" style="width:643px;"/>  
 <br>
 
-<img src="{{ site.baseurl }}/photos/behindthescene4.jpg" style="width:643px;"/>  
+<img src="{{ site.baseurl }}/photos/vof/behindthescene3.jpg" style="width:643px;"/>  
 <br>
 
-<img src="{{ site.baseurl }}/photos/behindthescene5.jpg" style="width:643px;"/>  
+<img src="{{ site.baseurl }}/photos/vof/behindthescene4.jpg" style="width:643px;"/>  
+<br>
+
+<img src="{{ site.baseurl }}/photos/vof/behindthescene5.jpg" style="width:643px;"/>  
 <br>
 
