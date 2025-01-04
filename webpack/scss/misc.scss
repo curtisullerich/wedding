@@ -241,8 +241,9 @@ dd {
   }
 }
 
-@media (min-width: 992px) {
+@media (min-width: 1px) {
   /*
+    changed min-width from 992px to 1px
     Only allow background-attachment: fixed for desktop-ish sizes
     https://twitter.com/paul_irish/status/306818591196602368
   */
