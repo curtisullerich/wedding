@@ -31,12 +31,13 @@ image_position: center 62%
     </div>
   </section>
   {% if moment.image %}
-    <section class="billboard billboard-moments"
-            style="{{ style }};">
     {% capture style %}
       {% if moment.image_position %} background-position: {{ story.image_position }};{% endif %}
       background-image: url({{site.baseurl}}/photos/moments/{{ moment.image }})
     {% endcapture %}
+    <section class="billboard billboard-moments"
+            style="{{ style }};">
+
     </section>
   {% endif %}
 {% endfor %}
