@@ -93,7 +93,10 @@ a:focus {
   margin-bottom: 50px;
 }
 
-@media (min-width: 767px) {
+@media (min-width: 1px) {
+  /*
+  change min-width from 767px to 1px
+  */
   .map {
     height: 400px;
   }
@@ -222,7 +225,10 @@ dd {
   font-size: 40px;
 }
 
-@media (min-width: 767px) {
+@media (min-width: 1px) {
+  /*
+  change min-width from 767px to 1px
+  */
   .billboard {
     height: 700px;
   }
@@ -255,7 +261,10 @@ dd {
   }
 }
 
-@media (min-width: 767px) {
+@media (min-width: 1px) {
+  /*
+  change min-width from 767px to 1px
+  */
   .billboard-wall {
     background-position: center -170px;
   }
