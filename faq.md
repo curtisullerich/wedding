@@ -26,7 +26,8 @@ Why not? They are adorable!
 Our wedding will take place surrounded by towering redwood trees, dressing in a
 way that reflects the natural beauty would be great! See color examples below.  
 
-<img src="{{ site.baseurl }}/assets/redwood-national-park.jpeg" style="width:300px;"/> 
+<img src="{{ site.baseurl }}/assets/img/color-palette.png" style="width:600px;"/> 
+
 
 ##### What kind of shoes should I wear?
 The picnic area is not paved. We recommend wearing comfortable shoes, and no stilettos.
