@@ -23,10 +23,10 @@ information in your RSVP.
 Why not? They are adorable!
 
 ##### What should I wear?
-Our wedding will take place surrounded by towering redwood trees, dressing in a
+Cocotail attire and as our wedding will take place surrounded by towering redwood trees, dressing in a
 way that reflects the natural beauty would be great! See color examples below.  
-
-<img src="{{ site.baseurl }}/assets/img/color-palette.png" style="width:600px;"/> 
+<!-- <img src="{{ site.baseurl }}/assets/img/color-palette.png" style="width:600px;"/>  -->
+<img src="{{ site.baseurl }}/assets/img/color-palette-2.jpeg" style="width:300px;"/> 
 
 
 ##### What kind of shoes should I wear?
