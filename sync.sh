@@ -47,12 +47,3 @@ fi
 echo "pushing"
 git push
 echo "done"
-
-# check if ulleri.ch exists as a sibling
-# check if ulleri.ch has pulled
-# check if ulleri.ch has any changes
-# bundle exec jekyll build
-# rm -r $ULLERICH/wedding
-# cp -r _site/wedding $ULLERICH/
-
-
