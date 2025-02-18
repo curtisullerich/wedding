@@ -42,6 +42,7 @@ exclude:
   - package.json
   - LICENSE
   - README.md
+  - sync.sh
 
 plugins:
   - jekyll-sitemap
