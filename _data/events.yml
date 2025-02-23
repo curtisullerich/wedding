@@ -3,12 +3,12 @@
   date: 2025-08-02 11:00:00 −08:00
   endDate: 2025-08-02 17:00:00 -08:00
   attire: cocktail attire
-  description: Our wedding will take place at Sequoia Peterson Grove in Sanborn County Park, located at 16055 Sanborn Rd, Saratoga, CA 95070. The ceremony will be held on a beautiful deck surrounded by towering redwood trees, beginning at 11:00 AM on Saturday, August 2, 2025. Please plan to arrive at least 20 mins early to ensure you have time to settle in.
+  description: Our wedding will take place at the Sequoia Peterson Grove in Sanborn County Park, located at 16055 Sanborn Rd, Saratoga, CA 95070. The ceremony will be held on a beautiful deck surrounded by redwood trees, beginning at 10:00 AM on Saturday, August 2, 2025. Please plan to arrive at least 20 mins early to ensure you have time to settle in.
 
   transportation:
   shuttle:
   location:
-    address: Peterson Grove at Sanborn County Park
+    address: Sequoia Peterson Grove at Sanborn County Park
     city: Saratoga
     state: CA
     long_state: California
@@ -21,7 +21,7 @@
 - name: Day-After Hangout
   date_alt: Sunday, August 3rd, 2025
   attire: casual
-  description: We know that our wedding day will be hectic yet filled with joy and celebrations, and as much as we'd love to, we may not get enough time to catch up with each of you. That's why we are planning a relaxing day-after hangout hoping to spend some quality time with you, chatting, and connecting with everyone who's made the time and effort to join us for this special occasion in our life.
+  description: We know that our wedding day will be joyful but hectic. To get more quality time with all of you, we're planning a simple day-after hangout for anyone still in town on Sunday.
 
   location:
     address: TBD
