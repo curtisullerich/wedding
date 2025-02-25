@@ -1,54 +1,114 @@
 - image: first-bike-ride.jpg
-  text: "Our very first photo together, taken during a bike ride at Alviso Marina County Park. Curtis texted Meishan the photo but Meishan didn't know what to reply and just said \"Nice! Hahaha\". Curtis now sends this response to Meishan frequently."
+  text: "Their very first photo together, taken during a bike ride at Alviso Marina County Park. Curtis texted Meishan the photo but Meishan didn't know what to reply and just said \"Nice! Hahaha\". Curtis now sends this response to Meishan frequently."
 
 - image: apple-strudel.jpg
-  text: "Our first time baking together – we hiked to an apple orchard near the house and made apple strudel!"
+  text: "Their first time baking together – they hiked to an apple orchard near the house and made apple strudel!"
 
 - image: yosemite-backpacking.jpg
   text: "First time backpacking together, in Yosemite. Meishan summitted Half Dome for the first time."
 
 - image: first-apple-pie.jpg
-  text: "Meishan's first time making an apple pie - it turned out to be very good! In the background, you can see the gap above the backsplash later filled in by the custom cabinets we built together."
+  text: "Meishan's first time making an apple pie - it turned out to be very good! In the background, you can see the gap above the backsplash later filled in by the custom cabinets they built together."
 
 - image: iowa-dinner.jpg
   text: "Meishan visited Iowa for the first time for New Year 2023. She felt so welcomed in this family."
 
+- image: 20230103-polaroid-with-kids.jpg
+  text: "Doing some experiments with the kids."
+
 - image: iowa-hiking.jpg
-  text: "We went on a hike on New Year Day with Curtis's sister's family."
+  text: "They went on a hike on New Year Day with Curtis's sister's family."
 
 - image: iowa-with-kids.jpg
   text: "Doing a science experiment with nephew Eli and niece Olivia."
 
+- image: 20230128-kitchen-remodeling.jpg
+  text: "Their friends Brandon and Trang came help with the kitchen remodeling. They learned how to wire GFCI outlets."
+
+- image: 20230128-meishan-holding-rangehood.jpg
+  text: "Figuring out how to install the range hood."
+
 - image: snow-house.jpg
-  text: "In February 2022, it snowed at our house!"
+  text: "In February 2022, it snowed at their house!"
+
+- image: 20230429-canoing.jpg
+  text: "They went canoeing at Stevens Reservoir outside of the canyon."
+
+- image: 20230526-graduation.jpg
+  text: "Meishan graduated from her master's program in 2023. After her commencement ceremony, they went backpacking in Oregon."
+
+- image: 20230526-oregon-backpacking.jpg
+  text: "They met Dan in Oregon to backpack after Meishan's graduation."
+
+- image: 20230604-meishan-holding-rangehood.jpg
+  text: "They finally installed the range hood!"
+
+- image: 20230709-feeding-horse.jpg
+  text: "Curtis competed in a Ride and Tie race in Cool. As always, Meishan is his crew member."
+
+- image: 20230712-canoing-with-liwei.jpg
+  text: "Liwei came to visit and they went canoeing at Stevens Reservoir."
+
+- image: 20230814-roadtrip-back-to-iowa.jpg
+  text: "Road trip to Iowa in summer 2023. They stopped by_____________________."
 
 - image: yellowstone.jpg
   text: "Road trip to Iowa in summer 2023, passing through Yellowstone National Park. This was the Grand Prismatic Spring."
+
+- image: 20230817-family-by-the-lake.jpg
+  text: "Enjoying the sunset after fishing with family."
+
+- image: 20230818-iowa-state-fair.jpg
+  text: "Meishan went to Iowa state fair for the first time!"
+
+- image: 20230819-honey-harvest.jpg
+  text: "They helped Nathan havesting honey from his beehives."
+  
+- image: 20230819-meishan-riding-ginger.jpg
+  text: "Meishan rode Ginger, the horse, for the first time."
 
 - image: iowa-with-kids-in-car.jpg
   text: "Heading to Curtis's parents' house. The kids insisted on riding with Meishan."
 
 - image: iowa-family.jpg
-  text: "The first family photo together, in 2023. Meishan always feels so welcomed by this family. Meishan remembers Gwen being especially thoughtful while we were taking these photos while Curtis was bustling about with the tripod and taking the photos with a remote."
+  text: "The first family photo together, in 2023. Meishan always feels so welcomed by this family. Meishan remembers Gwen being especially thoughtful while they were taking these photos while Curtis was bustling about with the tripod and taking the photos with a remote."
 
-- image: first-half-marathon.jpg
+- image: 20230820-meishan-nathan-with-kids-in-truck-bed.jpg
+  text: "Riding in the truck bed with the kids. Meishan loved it!"
+
+- image: 20230910-canoing.jpg
+  text: "Another canoing moment at Stevens Reservoir. This time, with their friends, Bryce, Jessie _____check the name please___ and their daughter."
+
+- image: 20231104-colorado-meishan-olivia.jpg
+  text: "They got away and went to Colorado to meet Nathan, Emily and the kids. The kids did great on the hike."
+
+- image: 20231111-apple-press-day.jpg
+  text: "Curtis and Meishan had their first apple pressing day. They made their own apple grinder and press."
+
+- image: turkey-trot.jpg
   text: "Meishan's first turkey trot 10k race."
+
+- image: 20231126-a-truck-bed-of-mulches.jpg
+  text: "They used the truck to move mulches from one place to another to prep the space for a hoodshed to store lumber."
+
+- image: 20231218-stoked-by-the-corner-cabinet.jpg
+  text: "Meishan was stoked by the corner cabinet they built. They made a screw-less wide open door. Ask what join they used for the door when you see them!"
+
+- image: 20231225-chrismas-dinner.jpg
+  text: "A simple but cozy Christmas brunch at home. They made ______what was it called?_______________."
+
+- image: 20231226-christmas-with-lois.jpg
+  text: "Christmas with Lois, Curtis's grandaunt."
 
 - image: china-hkg.jpg
   text: "Curtis visited China for the first time in 2024! Meishan and her brother, Jingshan, picked Curtis up at Hong Kong International Airport. While Meishan was in the restroom, Jingshan spotted Curtis and showed him a photo of Meishan to help him recognize each other, since they didn't speak a common language (yet?)."
 
+- image: 20240207-backpacking-in-hongkong.jpg
+  text: "They backpacked a 50k route in Hong Kong across 3 days. When you see us, ask us about what woke us up on their last night."
+
 - image: hongkong-two-high.jpg
-  image_position: top center
-  text: "We backpacked a 50k route in Hong Kong across 3 days. When you see us, ask us about what woke us up on our last night."
-
-- image: china-theme-park2.jpg
-  text: "We visited Shenzhen, the city where Meishan was born and grew up in. Jingshan and Meishan's SIL Jingfeng were incredible hosts. Jingshan planned many outings for us and made the logistics of getting between Hong Kong and the mainland easy, and Curtis loved both of their cooking."
-
-- image: china-fishing.jpg
-  text: "Jingshan loves fishing and took them out for a day on the ocean, followed by eating our catches at a restaurant by the dock immediately after. The water was extremely choppy that day."
-
-- image: china-motocycle.jpg
-  text: "Curtis rode a scooter for the first time."
+  text: "delete? - They backpacked a 50k route in Hong Kong across 3 days. When you see us, ask us about what woke us up on their last night."
+  image_position: top top
 
 - image: china-new-year.jpg
   text: "He also experienced Chinese New Year in the traditional way."
@@ -58,9 +118,54 @@
 
 - image: china-fireworks.jpg
   text: "Shooting fireworks at night is part of their Chinese New Year tradition."
-
+  
 - image: china-curtis-with-grandma.jpg
   text: "Curtis with Meishan's grandma, who was 94 at the time and is now 95"
+
+- image: 20240212-curtis-and-mom.jpg
+  text: "Curtis met Meishan's mom for the first time."
+
+- image: 20240212-meishan-and-mom.jpg
+  text: "They took the photos before saying goodbye to Meishan's mom."
+
+- image: china-motocycle.jpg
+  text: "Curtis rode a scooter for the first time."
+
+- image: 20240214-meishan-in-cage.jpg
+  text: "They went to Splendid China Folk Village in Shenzhen. ____________describe the show and why I am in the cage here__________."
+
+
+- image: china-fishing.jpg
+  text: "Jingshan loves fishing and took them out for a day on the ocean, followed by eating their catches at a restaurant by the dock immediately after. The water was extremely choppy that day."
+
+
+- image: 20240214-movie-night-with-family.jpg
+  text: "They watched a move together in English with Chinese subtitles."
+
+- image: china-theme-park2.jpg
+  text: "They visited Shenzhen, the city where Meishan was born and grew up in. Jingshan and Meishan's SIL Jingfeng were incredible hosts. Jingshan planned many outings for us and made the logistics of getting between Hong Kong and the mainland easy, and Curtis loved both of their cooking."
+
+- image: 20240321-plant-shelf.jpg
+  text: "Meishan designed the plant shelf and turned the design into reality with Curtis's help."
+
+- image: 20240417-demolition.jpg
+  text: "Nathan and Chris came for a week to help with the demolition of the house on the property."
+
+- image: 20240417-nathan-and-dad-demolition.jpg
+  text: "Demolition was on rocket speed with Nathan and Chris's help."
+
+- image: 20240419-stephens-wedding-with-friends.jpg
+  text: "They went to Austin to attend Stephen's wedding."
+
+- image: 20240419-stephens-wedding.jpg
+  text: ""
+
+- image: 20240420-at-restaurant-in-austin.jpg
+  text: "____________________caption here_____________________"
+
+- image: 20240421-with-maya.jpg
+  text: "____________________caption here_____________________"
+
 
 - image: running100k.jpg
   text: "Curtis ran his first 100k race, with Meishan and Stephen as his crew member and pacer team."
@@ -69,25 +174,46 @@
   text: "Meishan was admitted to the hospital immediately after a CT scan revealed she had appendicitis. Surprisingly, she was excited about experiencing her surgery."
 
 - image: 4h-painting.jpg
-  text: "Meishan helped Curtis wrap up a volunteer painting project at the Homesteaders 4-H Ranch that he organized. We both volunteer with the 4-H club."
+  text: "Meishan helped Curtis wrap up a volunteer painting project at the Homesteaders 4-H Ranch that he organized. They both volunteer with the 4-H club."
 
 - image: demolition.jpg
-  text: "Working on the property is a big part of their life, and Meishan loves being on the roof! We tore down this house in 2024. Curtis's BIL Nathan and father Chris kicked off the process during a visit in April, and many friends helped along the way."
+  text: "Working on the property is a big part of their life, and Meishan loves being on the roof! They tore down this house in 2024. Curtis's BIL Nathan and father Chris kicked off the process during a visit in April, and many friends helped along the way."
+
+
+
+- image: 20240725-balance-beam-with-olivia.jpg
+  text: "____________________caption here_____________________"
+
+- image: 20240729-family-by-the-lake.jpg
+  text: "____________________caption here_____________________"
+
+
+- image: 20240811-spirit-of-45.jpg
+  text: "____________________caption here_____________________"
 
 # - image: yosemite-snowshoe-selfie.jpg
-#   text: "Another backpacking adventure in Yosemite—this time, we hiked in snowshoes!"
+#   text: "Another backpacking adventure in Yosemite—this time, they hiked in snowshoes!"
 
 - image: birthday-swing-dance.jpg
-  text: "We went swing dancing on Meishan's birthday, and that night, Meishan beat Curtis to the proposal and proposed to him. Curtis says this was not a surprise because Meishan gave a million hints. Curtis had been planning a proposal but hadn't finished making her ring yet, so he turned his proposal surprise into a ring presentation surprise two weeks later."
+  text: "They went swing dancing on Meishan's birthday, and that night, Meishan beat Curtis to the proposal and proposed to him. Curtis says this was not a surprise because Meishan gave a million hints. Curtis had been planning a proposal but hadn't finished making her ring yet, so he turned his proposal surprise into a ring presentation surprise two weeks later."
+
+- image: 20241115-ring-presentation.jpg
+  text: "____________________caption here_____________________"
+
+- image: 20241125-thanksgiving-hike-2high.jpg
+  text: "____________________caption here_____________________"
+
+- image: 20241201-yosemite-snowshoe.jpg
+  text: "____________________caption here_____________________"
 
 - image: yosemite-snowshoe.jpg
-  text: "Another backpacking adventure in Yosemite. This time, we hiked in snowshoes! We didn't see anyone but animal footprints (including bears') until the last day of the trip."
+  text: "Another backpacking adventure in Yosemite. This time, they hiked in snowshoes! They didn't see anyone but animal footprints (including bears') until the last day of the trip."
 
 - image: wnh.jpg
-  text: "2024 Wednesday Night Hop Christmas Party. We are big fans of swing dancing!"
+  text: "2024 Wednesday Night Hop Christmas Party. They are big fans of swing dancing!"
 
 - image: us-with-doug-olivia.jpg
-  text: "Another awesome road trip to Valley of Fire State Park in Nevada, to meet Doug & Olivia. We love the photos Doug took for us (below)"
+  text: "Another awesome road trip to Valley of Fire State Park in Nevada, to meet Doug & Olivia. They love the photos Doug took for us (below)"
 
 - image: portrait.jpg
 
