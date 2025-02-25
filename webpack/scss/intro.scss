@@ -27,12 +27,14 @@
 .intro .intro-body {
   display: table-cell;
   vertical-align: middle;
+	padding-bottom: 12em;
 }
 
 .brand-heading {
   font-family: Aniyah, Raleway, "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-size: 40px;
   letter-spacing: 0.025em;
+	line-height: 12vw;
 }
 
 .intro-text {
@@ -42,9 +44,9 @@
 }
 
 @media (min-width: 767px) {
-  .intro {
+	.intro .intro-body {
     padding: 0;
-  }
+	}
 
   .brand-heading {
     font-size: 100px;
