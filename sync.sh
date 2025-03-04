@@ -1,7 +1,7 @@
 # check if we're in the right directory
 DIR=$(basename $(pwd))
-ULLERICH=$(readlink -f ../ulleri.ch)
-WEDDING=$(readlink -f .)
+ULLERICH=$(realpath ../ulleri.ch)
+WEDDING=$(realpath .)
 if [[ $DIR != wedding ]]; then
   echo "it doesn't look like you're in the root of the wedding repository"
   exit
@@ -37,6 +37,7 @@ rm -r $ULLERICH/wedding
 echo "copying"
 cp -r _site/wedding $ULLERICH/
 cd $ULLERICH
+git add .
 git commit -a -m "Published latest changes of /wedding"
 read -p "continue by pushing ulleri.ch to github?" -n 1 -r
 if [[ ! $REPLY =~ ^[Yy]$ ]]
