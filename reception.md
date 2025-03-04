@@ -17,5 +17,6 @@ Please join us at Brun Ko Farm, the home of Emily and Nathan Paulsen, for our re
 
 <i class="fa-solid fa-calendar-days"></i>
  <a href="https://calendar.google.com/calendar/render?action=TEMPLATE&text=Ullerich+Reception&details=Visit+http://ulleri.ch/reception+for+more+details&dates=20250711T160000/20250711T210000&ctz=America/Chicago&location=41.5870625,-95.0031195">
-Add to my (Google) calendar</a> or [Download .ics calendar file](/files/ullerich_reception.ics)  
+Add to my (Google) calendar</a>
+ <!-- or [Download .ics calendar file](/files/ullerich_reception.ics)   -->
 <br>
