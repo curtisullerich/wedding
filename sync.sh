@@ -1,7 +1,7 @@
 # check if we're in the right directory
 DIR=$(basename $(pwd))
-ULLERICH=$(readlink -f ../ulleri.ch)
-WEDDING=$(readlink -f .)
+ULLERICH=$(realpath ../ulleri.ch)
+WEDDING=$(realpath .)
 if [[ $DIR != wedding ]]; then
   echo "it doesn't look like you're in the root of the wedding repository"
   exit
