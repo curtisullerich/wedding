@@ -9,6 +9,15 @@ image_position: center 62%
 ## FAQ  
 <br>
 
+##### Where/when should I RSVP?
+Please let us know whether or not you can make it [here]({{ site.baseurl }}/rsvp) by April 20th.
+
+##### What if one day of fun isn't enough?
+We're planning to have a casual day-after hangout on Sunday, August 3rd, to get
+more quality time with everyone who came to celebrate with us. We'll update
+this section with more details. If you need to know anything specific to aid
+your planning, just get in touch.
+
 ##### Can I bring a date?
 We’re excited to have you share this special day with us!  
 If you’d like to bring a date who is not listed on the invitation, please put
@@ -33,7 +42,7 @@ debate -- Meishan thinks it’s just warm enough, Curtis might argue it’s goin
 to be a bit hot. So here are some numbers to help you decide:  
 The average high temperature is around 79°F (26°C), and the average low
 temperature is about 55°F (13°C). It’s generally dry with very little chance of
-rain. 
+rain.
 <!-- TODO update this in mid-July -->
 
 ##### What’s the parking situation like?
@@ -54,10 +63,10 @@ We are huge fans of swing dancing! One of our favorite repeat dates is to dance
 to live outdoor music by the Top Shelf Big Band (and Curtis has subbed on sax
 for rehearsals and gigs with TSBB many times) so we asked them to come play
 during our reception.  
-Between the ceremony and reception, a friend will be teaching a very basic
-swing dance lesson for anyone who is interested. No experience or partner
-necessary. Meishan learned the basics from Curtis on just their first date, and
-this teacher will be better than Curtis.  
+Between the ceremony and reception, we'll coordinate a very basic swing dance
+lesson for anyone who is interested. No experience or partner necessary.
+Meishan learned the basics from Curtis on just their first date, and this
+teacher will be better than Curtis.  
 
 ##### Can I take pictures?
 We kindly ask that you do not take photos during the ceremony, as we will have
