@@ -8,8 +8,14 @@ image_position: center 62%
 
 ## Appreciation Time!
 <br>
-We want to dedicate this page to express our deep appreciation for our friends Doug and Olivia. They recommended the incredible Valley of Fire State Park in Nevada, and met us there!
-Doug, a talented photographer, took these awesome photos you see on this website, while Olivia’s endless patience was invaluable, helping us every step of the way. Below are some behind the scenes highlights from this adventure.
+Our friends Doug and Olivia met us for a camping trip at Valley of Fire State
+Park in November 2024. Doug picked the location, which was new to all of us. It
+was amazing. I (Curtis) have always loved Doug's photos and photography has
+always been a big part of our trips together. We're both so grateful for
+another fun camping trip with Doug and Olivia, this time with the camera turned
+our direction.  
+
+Here are some behind-the-scenes photos from that weekend.
 
 <!-- ![Doug and Olivia](/photos/dougandolivia.jpg){width=50 height=30} -->
 <img class="dno-image" src="{{ site.baseurl }}/photos/vof/dougandolivia.jpg"/>
