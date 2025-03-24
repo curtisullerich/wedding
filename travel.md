@@ -94,6 +94,21 @@ we won't mind.
 after a classic song, not a rule) in Sunnyvale. If we weren't busy getting
 everything ready for the big day we'd join you there. We can put you in touch
 with swing dancing friends, just let us know.  
+- Have a barbeque at [Stevens Creek County
+Park](https://files.santaclaracounty.gov/exjcpb1516/2024-11/stevens-creek-guide-map.pdf?VersionId=HpyIOm3iVqus5MBsmfeQVn3i0dqcOT1M).
+Try the Canyon, Cooley, or Lakeshore picnic areas shown on the map. I ngeneral
+parking on the street (along Stevens Canyon Rd) is free, and parking in the
+lots is $6. Pay stations for parking are only available at the reservoir and
+Villa Maria lots, so if you head straight to the Canyon or Cooley sites, plan
+on parking outside the gate. The gravel area next to the stop sign at Mt Eden
+Rd & Stevens Canyon Rd, right next to Canyon/Cooley, is also free.
+- There's a free archery range also in Stevens Creek County Park, 4 miles down the
+road from our house. Curtis likes to do the 3D shoots here. They have a
+practice range with bales set at various distances, and a hiking course with 32
+targets set along the trail system. The full course is about a 2 mile hike. The
+club who manages the range offers paid beginner group lessons at a reasonable
+price, with equipment included. Request a lesson and see more details
+[here](https://www.bhuarchers.org/).  
 - A hike/bike ride at Alviso Marina County Park where Meishan and Curtis did
 their first bike ride together. There are places to birdwatch and read about
 local Alviso history. - Outside of the park, there are also some antique
@@ -117,3 +132,7 @@ you!
 few miles from our house, and has rentals available in the summer. You can fish
 and use non-powered watercraft here, but swimming isn't allowed. You can park
 along Stevens Canyon Rd and find a spot to splash in the creek, though!  
+- There is a [disc golf
+course](https://www.svdgc.org/villa-maria-disc-golf-course) in Stevens Creek
+County Park. Parking in the lot is $6, but you can park along Stevens Canyon Rd
+(like [here](https://maps.app.goo.gl/gLxGyMbuzxnDZNue6)) and take the trail in.  

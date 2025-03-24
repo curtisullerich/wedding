@@ -86,7 +86,7 @@ up to the gazebo area; we are still planning the layout, but we may have the
 buffet line here. If you have any accessibility concerns or requests, please
 note them in your RSVP or get in touch with us.
 
-##### How long with the reception last?
+##### How long will the reception last?
 The band will play for a couple hours after the luncheon.
 <!-- TODO update -->
 
