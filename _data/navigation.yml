@@ -1,11 +1,15 @@
+- name: RSVP
+  link: /rsvp
+- name: Photos
+  link: /photos
 - name: Moments
   link: /moments
-- name: FAQ
-  link: /faq
 - name: Travel
   link: /travel
 - name: Registry
   link: /registry
+- name: FAQ
+  link: /faq
 # - name: Photos
 #  link: /photo-gallery
 # - name: Livestream
@@ -13,5 +17,3 @@
 # - name: RSVP
 #   modal_id: rsvp-modal
 
-- name: RSVP
-  link: /rsvp
