@@ -227,6 +227,12 @@ dd {
   font-size: 40px;
 }
 
+@media (min-width: 480px) {
+	.billboard-header {
+		height: 300px;
+	}
+}
+
 @media (min-width: $mobile-width) {
   .billboard {
     height: 90vh;
