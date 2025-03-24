@@ -17,24 +17,46 @@ Mineta International Airport.
 ---
 
 #### Where to Stay
-- Hyatt House San Jose/Cupertino<br>
-- Aloft Cupertino<br>
-- Maple Tree Inn<br>
-- Wild Palms, a JdV by Hyatt Hotel<br>
-- The Domain Hotel<br>
-- Hampton Inn & Suite Sunnyvale-Sillicon Valley, CA<br>
-- Wafer 450 Hotel<br>
-- Avatar Hotel Santa Clara, Tapestry Collection by Hilton<br>
-- Quality Inn & Suites Silicon Valley<br>
-- Best Western University Inn Santa Clara<br>
+
+We'd be remiss not to mention that there is camping at Sanborn County Park,
+where the wedding will be. There are tent and RV sites still available at the
+time of writing. Reserve them
+[here](https://gooutsideandplay.org/reservation/camping/index.asp) (select
+Sanborn on the left).
+
+We couldn't find a hotel that offers a wedding block, so we don't have a
+particular one to recommend. Our home and wedding venue are both in the Santa
+Cruz Mountains, 15 minutes outside of Cupertino/Saratoga. There are some unique
+Airbnb situations in the mountains (cabins, domes, yurts, cabooses), so look
+there if that's your vibe.
+[Here](https://www.airbnb.com/s/Sanborn-County-Park--Saratoga--CA/homes?refinement_paths%5B%5D=%2Fhomes&flexible_trip_lengths%5B%5D=one_week&monthly_start_date=2025-04-01&monthly_length=3&monthly_end_date=2025-07-01&price_filter_input_type=2&channel=EXPLORE&place_id=ChIJcxose6JMjoARhmLeeh9SfpM&acp_id=696cf260-8330-4696-897c-c9fbac36ad8b&date_picker_type=calendar&checkin=2025-08-01&checkout=2025-08-03&source=structured_search_input_header&search_type=user_map_move&query=Sanborn%20County%20Park%2C%20Saratoga%2C%20CA&search_mode=regular_search&price_filter_num_nights=2&ne_lat=37.27212358222919&ne_lng=-122.02451139979303&sw_lat=37.21297902381982&sw_lng=-122.10049323121143&zoom=14.51040736019344&zoom_level=14.51040736019344&search_by_map=true)
+is an Airbnb search centered around the venue to get you started. This is just a starting point, so pan and zoom out to find a bigger range of options.
+
+If you want to escape Silicon Valley and make a mountain getaway out of your
+visit you could stay in a hotel in Boulder Creek, Brookdale, or Ben Lomond.
+These towns are about 30 minutes from the venue, over the ridge. They are near
+Big Basin State Park which, like our wedding site, features towering redwoods.
+
+If you want any more details recommendations, please get in touch!
+
+<!-- - Hyatt House San Jose/Cupertino -->
+<!-- - Aloft Cupertino -->
+<!-- - Maple Tree Inn -->
+<!-- - Wild Palms, a JdV by Hyatt Hotel -->
+<!-- - The Domain Hotel -->
+<!-- - Hampton Inn & Suite Sunnyvale-Sillicon Valley, CA -->
+<!-- - Wafer 450 Hotel -->
+<!-- - Avatar Hotel Santa Clara, Tapestry Collection by Hilton -->
+<!-- - Quality Inn & Suites Silicon Valley -->
+<!-- - Best Western University Inn Santa Clara -->
 
 ---
 
 #### Getting to the Venue
 Traveling by car to Sanborn County Park is likely the easiest way to reach our
-wedding ceremony. We highly recommend that you pre-download the map for the
-area, as cell signals tend to weaken or even disappear entirely as you approach
-the park.
+wedding ceremony (and the reception is at the same location). We highly
+recommend that you pre-download the map for the area, as cell signals tend to
+weaken or even disappear entirely as you approach the park.
 
 ---
 
@@ -42,9 +64,8 @@ the park.
 While traveling by car is likely the most convenient option for getting around
 the Bay Area, there are some public transportation options for other explorations.
 ###### Uber & Lyft
-Lyft tends to be our app-of-choice as it’s usually cheaper than Uber and we
-earn 10x points with Meishan’s Chase credit card, but we've heard that Uber
-offers deals with American Express credit cards.
+Lyft tends to be our app of choice when we have to use a ridesharing service as
+it’s usually cheaper than Uber and tends to have better ethics as a company.
 ##### South Bay
 ###### VTA
 > VTA (Santa Clara Valley Transportation Authority) offers bus and light rail services throughout the South Bay.
@@ -61,15 +82,18 @@ option.
 ###### BART
 BART also goes through places in San Francisco.
 ###### Muni
-Muni is the city's public transit system includes buses, light rail,
+Muni is San Francisco's public transit system which includes buses, light rail,
 streetcars, and cable cars (San Francisco’s iconic transportation!!)
 
 ---
 
 #### Other Things to Do
-- A hike before the wedding at Sanborn County Park might make you sweaty, but we won't mind.  
+- A hike before the wedding at Sanborn County Park might make you sweaty, but
+we won't mind.  
 - Swing dancing on August 1st at "For Dancers Only" (don't worry, it's named
-after a classic song, not a rule) in Sunnyvale.  
+after a classic song, not a rule) in Sunnyvale. If we weren't busy getting
+everything ready for the big day we'd join you there. We can put you in touch
+with swing dancing friends, just let us know.  
 - A hike/bike ride at Alviso Marina County Park where Meishan and Curtis did
 their first bike ride together. There are places to birdwatch and read about
 local Alviso history. - Outside of the park, there are also some antique
@@ -81,8 +105,15 @@ Meishan's favorite trails at the park. This ~5-mile trail offers a perfect mix
 of scenic views and refreshing shade, making it ideal for hot summer days. -
 Along the way, you'll pass highlights like Goat Rock Overlook and Varian Peak.
 If you're lucky, you might even catch sight of rock climbers scaling the
-boulders!  
-- San Jose Museum of Quilts & Textiles  
+boulders! Castl Rock SP is the classic local spot for outdoor climbing.  
+- San Jose Museum of Quilts & Textiles. This is a museum we like that we know
+some of you would also enjoy.  
 - If you're looking for a trail run of any length, Curtis can tailor a route
 for you in one of the many local parks. He has run in ~all of them at least
-once.  
+once. The classic local summit is Black Mountain; it's about 11 miles round
+trip from our house; please feel free to start here, even if Curtis can't join
+you!  
+- Kayaking or standup paddleboarding at Stevens Creek Reservoir. This is just a
+few miles from our house, and has rentals available in the summer. You can fish
+and use non-powered watercraft here, but swimming isn't allowed. You can park
+along Stevens Canyon Rd and find a spot to splash in the creek, though!  
