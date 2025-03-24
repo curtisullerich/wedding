@@ -315,13 +315,11 @@ dd {
 }
 
 .rsvp-form {
-  .input-group {
-    padding: 10px;
-  }
-
-  .help-text {
-    opacity: .8;
-  }
+  // I'm not sure if any of this is necessary.
+  flex-grow: 1;
+  border: none;
+  margin: 0;
+  padding: 0;
 }
 
 .portraits-container {
