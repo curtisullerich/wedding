@@ -12,11 +12,17 @@ image_position: center 62%
 
 #### Getting Here
 For those flying in, the closest airport to the venue and to us is San Jose
-Mineta International Airport.  
+Mineta International Airport (SJC).  
+
+SFO and OAK are both about an hour away each and can sometimes be cheaper than
+SJC. A Lyft from there to us will probably eat up whatever you saved by using
+the other airport. You can use BART to get most of the way from OAK and
+Caltrain can get you here from SFO for $10-15 each way, if you want to deal
+with the extra time and logistics.  
 
 There is an Amtrak station in Santa Clara, about 30 minutes from the venue. You
-can make it here from Chicago or Iowa in about 2 days. Curtis has done the
-California to Iowa route and enjoyed it. Check out their map
+can make it here by train from Chicago or Iowa in about 2 days. Curtis has done
+the California to Iowa route and enjoyed it. Check out their map
 [here](https://www.amtrak.com/content/dam/projects/dotcom/english/public/documents/Maps/Amtrak-System-Map-020923.pdf).
 
 ---
