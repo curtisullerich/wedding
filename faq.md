@@ -91,8 +91,3 @@ The band will play for a couple hours after the luncheon.
 <!-- TODO update -->
 
 ##### What if I have a question that’s not listed here?
-Feel free to send an e-mail to the bride and the groom at
-<a href="mailto: curtis.meishan@gmail.com">curtis.meishan@gmail.com</a> or
-call/text  
-Meishan (925) 262-7234  
-Curtis (712) 249-2588  
