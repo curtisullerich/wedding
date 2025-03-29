@@ -91,3 +91,8 @@ The band will play for a couple hours after the luncheon.
 <!-- TODO update -->
 
 ##### What if I have a question that’s not listed here?
+Feel free to contact the bride and the groom.  
+<div class="flip shared-at">amg</div>  
+Or call/text:  
+<div class="flip curtis-dial">-217</div>  
+<div class="flip meishan-dial">-529</div>  

@@ -395,3 +395,27 @@ dd {
   width: 100%;
   height: 44vh;
 }
+
+div.flip {
+  unicode-bidi:bidi-override;
+  direction:rtl
+}
+div.flip.shared-at:before {
+  content:"moc.li"
+}
+div.flip.shared-at:after {
+  content:"@nahsiem.sitruc :liamE"
+}
+div.flip.curtis-dial:before {
+  content:"8852-942"
+}
+div.flip.curtis-dial:after {
+  content:" :sitruC"
+}
+div.flip.meishan-dial:before {
+  content:"4327-262"
+}
+div.flip.meishan-dial:after {
+  content:" :nahsieM"
+}
+
