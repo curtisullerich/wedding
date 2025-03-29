@@ -68,6 +68,11 @@ weaken or even disappear entirely as you approach the park.
 #### Getting Around in the Bay Area
 While traveling by car is likely the most convenient option for getting around
 the Bay Area, there are some public transportation options for other explorations.
+###### Clipper Card
+For all local transit, you can put a [Clipper
+Card](https://www.clippercard.com/ClipperWeb/) on your phone's Google
+Wallet/Apple Wallet to make tickets easier. Just tap the terminal on the
+platform or at the turnstile when you board and exit.
 ###### Uber & Lyft
 Lyft tends to be our app of choice when we have to use a ridesharing service as
 it’s usually cheaper than Uber and tends to have better ethics as a company.
@@ -94,11 +99,12 @@ streetcars, and cable cars (San Francisco’s iconic transportation!!)
 
 #### Other Things to Do
 - A redwood hike before the wedding at Sanborn County Park might make you
-sweaty, but we won't mind.  
-- Swing dancing on August 1st at "For Dancers Only" (don't worry, it's named
-after a classic song, not a rule) in Sunnyvale. If we weren't busy getting
-everything ready for the big day we'd join you there. We can put you in touch
-with swing dancing friends, just let us know.  
+sweaty, but we won't mind.
+- Swing dancing on August 1st at "[For Dancers
+Only](https://www.fordancersonly.org/)" (don't worry, it's named after a
+classic song, not a rule) in Sunnyvale. If we weren't busy getting everything
+ready for the big day we'd join you there. We can put you in touch with swing
+dancing friends, just let us know.
 - Have a barbeque at [Stevens Creek County
 Park](https://files.santaclaracounty.gov/exjcpb1516/2024-11/stevens-creek-guide-map.pdf?VersionId=HpyIOm3iVqus5MBsmfeQVn3i0dqcOT1M).
 Try the Canyon, Cooley, or Lakeshore picnic areas shown on the map. In general,
@@ -117,36 +123,50 @@ practice range with bales set at various distances, and a hiking course with 32
 targets set along the trail system. The full course is about a 2 mile hike. The
 club who manages the range offers paid beginner group lessons at a reasonable
 price, with equipment included. Request a lesson and see more details
-[here](https://www.bhuarchers.org/).  
+[here](https://www.bhuarchers.org/).
 - Kayaking or standup paddleboarding at Stevens Creek Reservoir (also in
 Stevens Creek County Park). This is just a few miles from our house, and has
 rentals available in the summer. You can fish and use non-powered watercraft
 here, but swimming isn't allowed. You can park along Stevens Canyon Rd deeper
-in the canyon and find a spot to splash in the creek, though!  
+in the canyon and find a spot to splash in the creek, though!
 - There is a [disc golf
 course](https://www.svdgc.org/villa-maria-disc-golf-course) in Stevens Creek
 County Park too. Parking in the lot is $6, but you can park along Stevens
 Canyon Rd (like [here](https://maps.app.goo.gl/gLxGyMbuzxnDZNue6)) and take the
-trail in.  
+trail in.
 - A hike/bike ride at Alviso Marina County Park where Meishan and Curtis did
 their first bike ride together. There are places to birdwatch and read about
 local Alviso history. - Outside of the park, there are also some antique
 structures near the marina, ranging from the abandoned canning factory to some
 empty Victorian houses as if it were a ghost town. The marsh by the marina is a
-good place to walk about and watch the wildlife and hear the howling wind.  
+good place to walk about and watch the wildlife and hear the howling wind.
 - Visit Castle Rock State Park. Saratoga Gap and Ridge Loop are one of
 Meishan's favorite trails at the park. This ~5-mile trail offers a perfect mix
 of scenic views and refreshing shade, making it ideal for hot summer days. -
 Along the way, you'll pass highlights like Goat Rock Overlook and Varian Peak.
 If you're lucky, you might even catch sight of rock climbers scaling the
-boulders! Castl Rock SP is the classic local spot for outdoor climbing.  
+boulders! Castle Rock SP is the classic local spot for outdoor climbing.
 - San Jose Museum of Quilts & Textiles. This is a museum we like that we know
-some of you would also enjoy.  
+some of you would also enjoy.
 - If you're looking for a trail run of any length, Curtis can tailor a route
 for you in one of the many local parks. He has run in ~all of them at least
 once. The classic local summit is Black Mountain; it's about 11 miles round
 trip from our house; please feel free to start here, even if Curtis can't join
-you!  
-- The [Santa Clara County Fair](https://thefair.org/) will be happening from
-July 30-August 3! It's not quite an Iowa fair, but it's a good event with lots
-of 4-H kids participating whom Curtis and Meishan have mentored.
+you
+- The Santa Clara County Fair will be happening from July 30-August 3! It's not
+quite an Iowa fair 😉, but it's a good event with lots of 4-H kids participating
+whom Curtis and Meishan have mentored.
+- If you want a fun experience in the city and can spend some money on
+performing arts, you can repeat one of our favorites dates from this year and
+see the acrobatics show *Dear San Francisco* [at Club
+Fugazi](https://www.clubfugazisf.com/). Take Caltrain to the city, and
+[walk](https://www.google.com/maps/dir/San+Francisco,+700+4th+St,+San+Francisco,+CA+94107/Yerba+Buena+Gardens,+Howard+Street,+San+Francisco,+CA/Chinatown+San+Francisco,+Stockton+Street+Tunnel,+San+Francisco,+CA/678+Green+St,+San+Francisco,+CA+94133/@37.788116,-122.4040667,15z/data=!3m1!5s0x8085808cbbb3c26b:0x9e07d91c059cf148!4m31!4m30!1m5!1m1!1s0x808f7fd693250615:0xb7611ca1cd0883d8!2m2!1d-122.39484!2d37.77667!1m10!1m1!1s0x808580879c034b09:0x9426c73a3d692058!2m2!1d-122.4023514!2d37.7849884!3m4!1m2!1d-122.402312!2d37.78487!3s0x808580879b0e89cb:0xc81e0af5faa51cd4!1m5!1m1!1s0x808580f2e37ffed5:0xf9020621b030b2fa!2m2!1d-122.408083!2d37.793978!1m5!1m1!1s0x808580f199552e0b:0xf028d5d8f3f3f2a3!2m2!1d-122.4102708!2d37.799635!3e2?entry=ttu&g_ep=EgoyMDI1MDMyNS4xIKXMDSoASAFQAw%3D%3D)
+two miles through Yerba Buena Gardens and Chinatown on your way to the venue.
+ The show has some really incredible acro, aerials, and juggling in a
+smallish venue, so you're close to the action. We found discounted on-stage
+seats [at
+TodayTix](https://www.todaytix.com/sf-bay-area/shows/26442-dear-san-francisco)
+which was a really cool vantage point. The venue has some cool history which
+they describe, and the show has lots of references to San Francisco history and
+culture so you get a nice taste of the area. The show is appropriate for ages
+5+; check their [FAQ](https://www.clubfugazisf.com/faq) for details.
