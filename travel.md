@@ -124,6 +124,11 @@ targets set along the trail system. The full course is about a 2 mile hike. The
 club who manages the range offers paid beginner group lessons at a reasonable
 price, with equipment included. Request a lesson and see more details
 [here](https://www.bhuarchers.org/).
+- Speaking of archery, there is a 3D shoot happening in Pacifica (about an hour
+from us) August 2nd and 3rd. It's the SF Archers' annual [One Million B.C.
+shoot](https://sfarchers.org/events/one-million-bc-shoot/) featuring 3D
+dinosaur targets. (The page currently shows the 2024 details, but they have set
+the 2025 date already.)
 - Kayaking or standup paddleboarding at Stevens Creek Reservoir (also in
 Stevens Creek County Park). This is just a few miles from our house, and has
 rentals available in the summer. You can fish and use non-powered watercraft
