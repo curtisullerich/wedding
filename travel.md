@@ -163,7 +163,8 @@ some of you would also enjoy.
 for you in one of the many local parks. He has run in ~all of them at least
 once. The classic local summit is Black Mountain; it's about 11 miles round
 trip from our house; please feel free to start here, even if Curtis can't join
-you
+you. Curtis would recommend that you join the Stevens Creek Striders for their
+weekly social run, but we planned our ceremony during the same morning. Oops!
 - The Santa Clara County Fair will be happening from July 30-August 3! It's not
 quite an Iowa fair 😉, but it's a good event with lots of 4-H kids participating
 whom Curtis and Meishan have mentored.
