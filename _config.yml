@@ -10,7 +10,7 @@ baseurl: "/wedding"
 destination: _site/wedding
 
 collections:
-  stories:
+  events:
     sort_by: order
   moments:
     sort_by: order

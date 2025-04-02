@@ -20,10 +20,10 @@
     </div>
 </header>
 
-{% for story in site.stories %}
-    {% if story.image %}
+{% for event in site.events %}
+    {% if event.image %}
         {% capture style %}
-            background-image: url({{ story.image }})
+            background-image: url({{ event.image }})
         {% endcapture %}
 
         <section class="billboard billboard-home" style="{{ style }}"></section>
@@ -32,7 +32,7 @@
 <section id="ourstory" class="container content-section text-center">
     <div class="row justify-content-center">
         <div class="col-lg-10">
-            {{ story.content | markdownify }}
+            {{ event.content | markdownify }}
         </div>
     </div>
 </section>
