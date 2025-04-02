@@ -14,9 +14,10 @@ Please let us know whether or not you can make it [here]({{ site.baseurl }}/rsvp
 
 ##### What if one day of fun isn't enough?
 We're planning to have a casual day-after hangout on Sunday, August 3rd, to get
-more quality time with everyone who came to celebrate with us. We'll update
-this section with more details. If you need to know anything specific to aid
-your planning, just get in touch.
+more quality time with everyone who came to celebrate with us.  We're imagining
+a drop-in brunch or long lunch where y'all come and go as you like.  We'll
+update this section with more details when available.  If you need to know
+anything more specific to aid your planning, just get in touch.
 
 ##### Can I bring a date?
 We’re excited to have you share this special day with us!  
@@ -67,6 +68,9 @@ Between the ceremony and reception, we'll coordinate a very basic swing dance
 lesson for anyone who is interested. No experience or partner necessary.
 Meishan learned the basics from Curtis on just their first date, and this
 teacher will be better than Curtis.  
+
+##### What language will the ceremony be in?
+The ceremony will be in English and Cantonese.
 
 ##### Can I take pictures?
 We kindly ask that you do not take photos during the ceremony, as we will have
