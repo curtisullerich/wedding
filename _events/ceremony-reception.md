@@ -21,5 +21,5 @@ swing music provided by the Top Shelf Big Band!
 More questions? See if we answered them [here]({{site.baseurl}}/faq).  
 
 <i class="fa-solid fa-calendar-days"></i>
-[Add to my (Google) calendar](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Ullerich+Wedding&details=Visit+http://ulleri.ch/wedding+for+more+details&dates=20250802T100000/20250802T180000&ctz=America/Los_Angeles&location=37.234524,-122.063787)
+[Add to my (Google) calendar](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Ullerich+Wedding&details=Visit+http://ulleri.ch/wedding+for+more+details&dates=20250802T100000/20250802T150000&ctz=America/Los_Angeles&location=37.234524,-122.063787)
 <!-- or [Download .ics calendar file](/files/ullerich_wedding.ics) -->
