@@ -133,8 +133,7 @@ price, with equipment included. Request a lesson and see more details
 - Speaking of archery, there is a 3D shoot happening in Pacifica (about an hour
 from us) August 2nd and 3rd. It's the SF Archers' annual [One Million B.C.
 shoot](https://sfarchers.org/events/one-million-bc-shoot/) featuring 3D
-dinosaur targets. (The page currently shows the 2024 details, but they have set
-the 2025 date already.)
+dinosaur targets.
 - Kayaking or standup paddleboarding at Stevens Creek Reservoir (also in
 Stevens Creek County Park). This is just a few miles from our house, and has
 rentals available in the summer. You can fish and use non-powered watercraft
@@ -165,11 +164,13 @@ once. The classic local summit is Black Mountain; it's about 11 miles round
 trip from our house; please feel free to start here, even if Curtis can't join
 you. Curtis would recommend that you join the Stevens Creek Striders for their
 weekly social run, but we planned our ceremony during the same morning. Oops!
-- The Santa Clara County Fair will be happening from July 30-August 3! It's not
-quite an Iowa fair 😉, but it's a good event with lots of 4-H kids participating
-whom Curtis and Meishan have mentored.
+- The [Santa Clara County Fair](https://thefair.org/) will be happening from
+July 30-August 3! It's not quite an Iowa fair 😉, but it's a good event with
+lots of 4-H kids participating whom Curtis and Meishan have mentored. After the
+wedding reception, you have time to make it to the fairgrounds before the
+parade kicks off at 6 pm.
 - If you want a fun experience in the city and can spend some money on
-performing arts, you can repeat one of our favorites dates from this year and
+performing arts, you can repeat one of our favorite dates from this year and
 see the acrobatics show *Dear San Francisco* [at Club
 Fugazi](https://www.clubfugazisf.com/). Take Caltrain to the city, and
 [walk](https://www.google.com/maps/dir/San+Francisco,+700+4th+St,+San+Francisco,+CA+94107/Yerba+Buena+Gardens,+Howard+Street,+San+Francisco,+CA/Chinatown+San+Francisco,+Stockton+Street+Tunnel,+San+Francisco,+CA/678+Green+St,+San+Francisco,+CA+94133/@37.788116,-122.4040667,15z/data=!3m1!5s0x8085808cbbb3c26b:0x9e07d91c059cf148!4m31!4m30!1m5!1m1!1s0x808f7fd693250615:0xb7611ca1cd0883d8!2m2!1d-122.39484!2d37.77667!1m10!1m1!1s0x808580879c034b09:0x9426c73a3d692058!2m2!1d-122.4023514!2d37.7849884!3m4!1m2!1d-122.402312!2d37.78487!3s0x808580879b0e89cb:0xc81e0af5faa51cd4!1m5!1m1!1s0x808580f2e37ffed5:0xf9020621b030b2fa!2m2!1d-122.408083!2d37.793978!1m5!1m1!1s0x808580f199552e0b:0xf028d5d8f3f3f2a3!2m2!1d-122.4102708!2d37.799635!3e2?entry=ttu&g_ep=EgoyMDI1MDMyNS4xIKXMDSoASAFQAw%3D%3D)
@@ -182,3 +183,15 @@ which was a really cool vantage point. The venue has some cool history which
 they describe, and the show has lots of references to San Francisco history and
 culture so you get a nice taste of the area. The show is appropriate for ages
 5+; check their [FAQ](https://www.clubfugazisf.com/faq) for details.
+- For country dancing, try
+[Mavericks](https://www.maverickspleasanton.com/line-dance-and-live-music) in
+Pleasanton. It's a bit of a drive. DJ'd dancing on Fridays and a live band on
+Saturdays. Cornhole on Wednesdays and Thursdays, apparently! It's mostly line
+dancing (sorry, Texans) but there's always room for swing dancers. A few
+couples try and two-step, but you may need sharp elbows to maintain your own
+bubble around the room.
+- August 1st will have [Los Altos First
+Fridays](https://losaltosfirstfriday.fun/entertainment/), with several live
+bands playing on the streets of downtown Los Altos. Curtis has performed here
+with Top Shelf a few times, and we have danced there with friends multiple
+times.

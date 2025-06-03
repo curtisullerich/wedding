@@ -7,7 +7,7 @@ order: 0
 ***Cocktail Attire***  
 ***Location:*** [***Peterson Sequoia Grove, Sanborn County Park, Saratoga, CA***](https://www.google.com/maps/place/Peterson+Grove,+California+95070/data=!4m2!3m1!1s0x808e4b73785c40bd:0xf35ce38203376155?sa=X&ved=1t:242&ictx=111)
 
-RSVP [here]({{ site.baseurl }}/rsvp) by April 20th.
+RSVP [here]({{ site.baseurl }}/rsvp).
 
 Our wedding will take place at Sequoia Peterson Grove in Sanborn County Park,
 located at 16055 Sanborn Rd, Saratoga, CA 95070. The ceremony will be held on a

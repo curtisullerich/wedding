@@ -10,14 +10,19 @@ image_position: center 62%
 <br>
 
 ##### Where/when should I RSVP?
-Please let us know whether or not you can make it [here]({{ site.baseurl }}/rsvp) by April 20th.
+Please let us know whether or not you can make it [here]({{ site.baseurl }}/rsvp).
 
 ##### What if one day of fun isn't enough?
-We're planning to have a casual day-after hangout on Sunday, August 3rd, to get
-more quality time with everyone who came to celebrate with us.  We're imagining
-a drop-in brunch or long lunch where y'all come and go as you like.  We'll
-update this section with more details when available.  If you need to know
-anything more specific to aid your planning, just get in touch.
+We know that our wedding day will be joyful but hectic. To get more quality
+time with all of you, we're planning a simple day-after hangout for anyone
+still in town on Sunday. Join us at the San Pedro Square Market in downtown San
+Jose any time between 11 and 1:30 on Sunday, August 3rd. Buy some lunch from
+one of the many counter-serve restaurants and join us at the outdoor seating.
+Come and go as fits your schedule, no need to arrive at a specific time. Park
+on the street (free on Sundays) or one of the city garages (free for the first
+90 minutes). San Pedro Square Market is one of Meishan's favorite places to
+eat on the rare occasion when we dine out, and we usually go when there is live
+swing music playing.  
 
 ##### Can I bring a date?
 We’re excited to have you share this special day with us!  

@@ -5,8 +5,8 @@ BEGIN:VEVENT
 SUMMARY:Curtis and Meishan Day-After Hangout
 DESCRIPTION:Visit http://ulleri.ch/wedding for more details
 DTSTART;TZID=America/Los_Angeles:20250803T110000
-DTEND;TZID=America/Los_Angeles:20250803T180000
-LOCATION:37.234524,-122.063787
+DTEND;TZID=America/Los_Angeles:20250803T133000
+LOCATION:https://maps.app.goo.gl/hY6AxTBcWCHYjiJz7
 URL:http://ulleri.ch/wedding
 BEGIN:VALARM
 TRIGGER:-P7D
