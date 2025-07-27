@@ -43,13 +43,8 @@ The picnic area is not paved, and you may even find yourselves on grass at some
 point. We recommend wearing comfortable shoes, and no stilettos.
 
 ##### What will the weather be like?
-In August, the suitability of the weather in Saratoga, CA might be a subject of
-debate -- Meishan thinks it’s just warm enough, Curtis might argue it’s going
-to be a bit hot. So here are some numbers to help you decide:  
-The average high temperature is around 79°F (26°C), and the average low
-temperature is about 55°F (13°C). It’s generally dry with very little chance of
-rain.
-<!-- TODO update this in mid-July -->
+It'll be sunny. When you arrive, it will be in the upper 60s F (~20° C). When
+you leave, it will be in the upper 70s F (~25° C).
 
 ##### What’s the parking situation like?
 There's a parking lot very close to our reserved site. All lots in the park are
@@ -72,7 +67,10 @@ during our reception.
 Between the ceremony and reception, we'll coordinate a very basic swing dance
 lesson for anyone who is interested. No experience or partner necessary.
 Meishan learned the basics from Curtis on just their first date, and this
-teacher will be better than Curtis.  
+teacher will be way better than Curtis.  
+If you're really excited about learning, feel free to follow along with [this
+video](https://www.youtube.com/watch?v=U9yKEnewTas). It shows a more advanced
+version of the lesson offered at the wedding, introduced slowly.  
 
 ##### What language will the ceremony be in?
 The ceremony will be in English and Cantonese.
@@ -97,7 +95,6 @@ note them in your RSVP or get in touch with us.
 
 ##### How long will the reception last?
 The band will play for a couple hours after the luncheon.
-<!-- TODO update -->
 
 ##### What if I have a question that’s not listed here?
 Feel free to contact the bride and the groom.  

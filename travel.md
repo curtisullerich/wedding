@@ -120,9 +120,10 @@ Villa Maria lots, so if you head straight to the Canyon or Cooley sites, plan
 on parking outside the gate. The gravel area next to the stop sign at Mt Eden
 Rd & Stevens Canyon Rd, right next to Canyon/Cooley, is also free.
 - Stevens Creek County Park also has lots of hiking trails. Here are three
-recommendations (maps coming soon): The 3-mile Mt Eden loop for a nice view and
-creek splashing access; a route past Garrod Farms for views of horses and wine
-tasting; or a loop through Bear Meadow and Picchetti Winery.
+recommendations: The 3-mile Mt Eden loop for a nice view and creek splashing
+access; a route past Garrod Farms for views of horses and wine tasting; or a
+loop through Bear Meadow and Picchetti Winery. (Let Curtis know if you want
+maps for any specific lengths etc.)
 - There's a free archery range also in Stevens Creek County Park, 4 miles down the
 road from our house. Curtis likes to do the 3D shoots here. They have a
 practice range with bales set at various distances, and a hiking course with 32
@@ -195,3 +196,7 @@ Fridays](https://losaltosfirstfriday.fun/entertainment/), with several live
 bands playing on the streets of downtown Los Altos. Curtis has performed here
 with Top Shelf a few times, and we have danced there with friends multiple
 times.
+- Mere steps from our wedding ceremony location is a stage in the redwoods
+where Silicon Valley Shakespeare puts on plays by Shakespeare and others.
+"Emma" [is playing](https://www.svshakespeare.org/emma) on August 1st, 2nd, and
+3rd. We saw Jekyll & Hyde here last year and loved it.
